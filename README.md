@@ -25,6 +25,5 @@ A Bangladeshi Brand Designer elevating the brand development journey of SMEs sin
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=itsalfaahim&icon=0&color=0)](https://visitcount.itsvg.in)
 
 © 2025, Abdullah Al Fahim. All Rights Reserved
