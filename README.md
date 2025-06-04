@@ -1,9 +1,8 @@
 # I'm  Abdullah Al Fahim
 ### A Bangladeshi Brand Designer
--------------------------------------------------------------------------
 
 # 💫 About Me:
-💼 I'm currently working as a Broadcast Engineer at Channel I, 1st Digital Satellite Television Network in Bangladesh Since 1999.<br><br>👨‍🎓 Studied BSc. in Electronics & Communication Engineering from National University Bangladesh<br><br>🌐 Working as a Brand Designer from the last 7 years.
+💼 I'm currently working as a Broadcast Engineer at Channel I, 1st Digital Satellite Television Network in Bangladesh Since 1999.<br>👨‍🎓 Studied BSc. in Electronics & Communication Engineering from National University Bangladesh<br>🌐 Working as a Brand Designer from the last 7 years.
 
 
 ## 🌐 Socials:
