@@ -1,7 +1,7 @@
 <img src="linkedin-Cover.jpg" alt="GitHub Banner" width="100%" />
 
 
-# I'm  Abdullah Al Fahim
+# Hello World! This is Abdullah Al Fahim
 A Bangladeshi Brand Designer elevating the brand development journey of SMEs since 2018
 
 # 💫 About Me:
