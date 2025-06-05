@@ -27,3 +27,8 @@ A Bangladeshi Brand Designer elevating the brand development journey of SMEs sin
 ---
 
 © 2025, Abdullah Al Fahim. All Rights Reserved
+
+
+
+
+![Utopia Designs Inc.](https://utopiadesigns.agency/wp-content/uploads/elementor/thumbs/utopia-designs-logo-colorize-r38nsrc52gwam4jtug0lsbip8zbhtvmlfmeoz2ty4g.png)
