@@ -7,9 +7,9 @@ A Bangladeshi Brand Designer elevating the brand development journey of SMEs sin
 # 💫 About Me
  🐱‍💻Founder & Creative Director, [**Utopia Designs Inc.**](https://utopiadesigns.agency/) <br>💼 I'm currently working as a Broadcast Engineer at Channel I, 1st Digital Satellite Television Network in Bangladesh Since 1999.<br>👨‍🎓 Studied BSc. in Electronics & Communication Engineering from National University Bangladesh<br>🌐 Working as a Brand Designer from the last 7 years.
 
-![Utopia Designs Inc.](https://utopiadesigns.agency/wp-content/uploads/elementor/thumbs/utopia-designs-logo-colorize-r38nsrc52gwam4jtug0lsbip8zbhtvmlfmeoz2ty4g.png)    ![Channel I](https://i.postimg.cc/Z5FJhK02/Channel-i.jpg)
-
  [**Visit My Portfolio**](https://dribbble.com/hire-fahim)
+
+![Utopia Designs Inc.](https://utopiadesigns.agency/wp-content/uploads/elementor/thumbs/utopia-designs-logo-colorize-r38nsrc52gwam4jtug0lsbip8zbhtvmlfmeoz2ty4g.png)    ![Channel I](https://i.postimg.cc/Z5FJhK02/Channel-i.jpg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-al-fahim) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/hire-fahim) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/itsalfahim) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its.alfahim) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/utopiadesignsbd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alfahim604@yahoo.com) 
