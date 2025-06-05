@@ -31,4 +31,4 @@ A Bangladeshi Brand Designer elevating the brand development journey of SMEs sin
 
 
 
-![Utopia Designs Inc.](https://utopiadesigns.agency/wp-content/uploads/elementor/thumbs/utopia-designs-logo-colorize-r38nsrc52gwam4jtug0lsbip8zbhtvmlfmeoz2ty4g.png)  ![Channel I](https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1920px-Channel-i.svg.png)
+![Utopia Designs Inc.](https://utopiadesigns.agency/wp-content/uploads/elementor/thumbs/utopia-designs-logo-colorize-r38nsrc52gwam4jtug0lsbip8zbhtvmlfmeoz2ty4g.png)  ![Channel I](https://i.postimg.cc/Z5FJhK02/Channel-i.jpg)
