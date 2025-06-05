@@ -28,6 +28,15 @@ A Bangladeshi Brand Designer elevating the brand development journey of SMEs sin
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsalfaahim/itsalfaahim/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsalfaahim/itsalfaahim/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/itsalfaahim/itsalfaahim/output/github-snake.svg" />
+</picture>
+
+
+---
+
 © 2025, Abdullah Al Fahim. All Rights Reserved
 
 ---
