@@ -4,8 +4,8 @@
 # Hello World! This is Abdullah Al Fahim
 A Bangladeshi Brand Designer elevating the brand development journey of SMEs since 2018
 
-# 💫 About Me:
-💼 I'm currently working as a Broadcast Engineer at Channel I, 1st Digital Satellite Television Network in Bangladesh Since 1999.<br>👨‍🎓 Studied BSc. in Electronics & Communication Engineering from National University Bangladesh<br>🌐 Working as a Brand Designer from the last 7 years.
+# 💫 About Me
+ 🐱‍💻Founder & Creative Director, ![Utopia Designs Inc.](https://utopiadesigns.agency/) <br>💼 I'm currently working as a Broadcast Engineer at Channel I, 1st Digital Satellite Television Network in Bangladesh Since 1999.<br>👨‍🎓 Studied BSc. in Electronics & Communication Engineering from National University Bangladesh<br>🌐 Working as a Brand Designer from the last 7 years.
 
 ![Utopia Designs Inc.](https://utopiadesigns.agency/wp-content/uploads/elementor/thumbs/utopia-designs-logo-colorize-r38nsrc52gwam4jtug0lsbip8zbhtvmlfmeoz2ty4g.png)    ![Channel I](https://i.postimg.cc/Z5FJhK02/Channel-i.jpg)
 
