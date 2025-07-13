@@ -34,35 +34,3 @@ Leadership, Public Speaking, Training Facilitation, Detail-Oriented Execution.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsalfaahim/itsalfaahim/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/itsalfaahim/itsalfaahim/output/github-snake.svg" />
 </picture>
-
-
-## Portfolio
-
-# My Awesome Project
-
-## Table of Contents
-* [Installation](#installation-guide)
-* [Usage](#how-to-use)
-* [Contributing](#contributing)
-* [License](#license)
-* [Important Notes](#important-notes)
-
----
-
-<h2 id="installation-guide">Installation Guide</h2>
-To get started, follow these steps...
-```markdown
-<h2 id="how-to-use">How to Use</h2>
-Here's how you can use the project...
-```markdown
-## Contributing
-(GitHub automatically generates an ID like `#contributing` for this heading)
-We welcome contributions! Please see our [contribution guidelines](#contributing).
-```markdown
-<h2 id="license">License</h2>
-This project is licensed under the MIT License.
-```html
-<div id="important-notes">
-  ### Important Notes
-  This section contains crucial information about dependencies and known issues.
-</div>
