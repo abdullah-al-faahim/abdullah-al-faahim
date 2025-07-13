@@ -1,11 +1,10 @@
 <img src="github-README-cover.jpg" alt="GitHub Banner" width="100%" />
 
 
-# Hello World!
+# Hello World! This is Abdullah Al Fahim.
 
 
-## About Me
-This is Abdullah Al Fahim
+## About
 A Bangladeshi Brand Designer elevating the brand development journey of SMEs since 2018. <br>
 Working as a Broadcast Engineer (Transmission) at Channel i, 1st Digital Satellite Television Network in Bangladesh Since 1998.<br>
 
