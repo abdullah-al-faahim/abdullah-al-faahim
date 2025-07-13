@@ -29,12 +29,28 @@ Leadership, Public Speaking, Training Facilitation, Detail-Oriented Execution.
   </a>
 </p>
 
-## Contributions:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsalfaahim/itsalfaahim/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsalfaahim/itsalfaahim/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/itsalfaahim/itsalfaahim/output/github-snake.svg" />
 </picture>
 
+
+## Portfolio
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: flex-start;">
+  <div style="flex: 0 0 48%; margin: 1%;">
+    <img src="https://placehold.co/300x200/000000/FFFFFF?text=Image+1" alt="Description of Image 1" style="width: 100%; height: auto; border-radius: 8px;">
+  </div>
+  <div style="flex: 0 0 48%; margin: 1%;">
+    <img src="https://placehold.co/300x200/FF0000/FFFFFF?text=Image+2" alt="Description of Image 2" style="width: 100%; height: auto; border-radius: 8px;">
+  </div>
+  <div style="flex: 0 0 48%; margin: 1%;">
+    <img src="https://placehold.co/300x200/00FF00/FFFFFF?text=Image+3" alt="Description of Image 3" style="width: 100%; height: auto; border-radius: 8px;">
+  </div>
+  <div style="flex: 0 0 48%; margin: 1%;">
+    <img src="https://placehold.co/300x200/0000FF/FFFFFF?text=Image+4" alt="Description of Image 4" style="width: 100%; height: auto; border-radius: 8px;">
+  </div>
+</div>
 
 ---
