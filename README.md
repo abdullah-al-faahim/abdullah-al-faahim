@@ -15,7 +15,7 @@ A Bangladeshi Brand Designer elevating the brand development journey of SMEs sin
 ## Skills:
 <p align="center">
   <a href="https://linkedin.com/in/abdullah-al-fahim">
-    <img src="https://skillicons.dev/icons?i=ai,ps,pr,au,ae,figma,autocad,latex,notion,wordpress,git,github,discord,windows,apple,linux,mint,kali,debian,vercel,vscode,pycharm,linkedin,gmail,powershell&perline=6" />
+    <img src="https://skillicons.dev/icons?i=ai,ps,pr,au,ae,figma,autocad,latex,notion,wordpress,git,github,discord,windows,apple,linux,mint,kali,debian,vercel,vscode,pycharm,linkedin,gmail,powershell&perline=10" />
   </a>
 </p>
 
