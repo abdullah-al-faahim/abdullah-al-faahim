@@ -12,12 +12,14 @@ A Bangladeshi Brand Designer elevating the brand development journey of SMEs sin
 
 
 ## Skills:
-- **Creative Skills:** Branding, Logo Design, Drafting and Annotation, Graphic Design, Video Editing
+- **Tech Skills:** System Administration, IT Support, Network Configuration, Cyber Security Practices, Data Analysis (Excel),
+Design System Development, Graphic Design, WordPress Customization, Technical Documentation, Branding, Logo Design, Drafting and Annotation, Graphic Design, Video Editing
 - **Web Development:** WordPress, HTML, CSS, Google Sites,WebApp
-- **Broadcast Technology:** 
-- **Documentations:**
-- **Organizational Skills:**
-- **Leadership Skills:**
+- **Broadcast Technology:** Grass Valley, Ross Video, Imagine Communications, Harris, Erricson Transiver, TUV Networks, LiveU,
+Harminic.
+- **Documentations:** LaTeX, Notion, MS Word, Report Writing.
+- **Organizational Skills:** Strategic Communication, Cross-functional Collaboration, Time Management, Event Planning,
+Leadership, Public Speaking, Training Facilitation, Detail-Oriented Execution.
 
 
 ### Technologies:
