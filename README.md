@@ -38,19 +38,31 @@ Leadership, Public Speaking, Training Facilitation, Detail-Oriented Execution.
 
 ## Portfolio
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: flex-start;">
-  <div style="flex: 0 0 48%; margin: 1%;">
-    <img src="https://placehold.co/300x200/000000/FFFFFF?text=Image+1" alt="Description of Image 1" style="width: 100%; height: auto; border-radius: 8px;">
-  </div>
-  <div style="flex: 0 0 48%; margin: 1%;">
-    <img src="https://placehold.co/300x200/FF0000/FFFFFF?text=Image+2" alt="Description of Image 2" style="width: 100%; height: auto; border-radius: 8px;">
-  </div>
-  <div style="flex: 0 0 48%; margin: 1%;">
-    <img src="https://placehold.co/300x200/00FF00/FFFFFF?text=Image+3" alt="Description of Image 3" style="width: 100%; height: auto; border-radius: 8px;">
-  </div>
-  <div style="flex: 0 0 48%; margin: 1%;">
-    <img src="https://placehold.co/300x200/0000FF/FFFFFF?text=Image+4" alt="Description of Image 4" style="width: 100%; height: auto; border-radius: 8px;">
-  </div>
-</div>
+# My Awesome Project
+
+## Table of Contents
+* [Installation](#installation-guide)
+* [Usage](#how-to-use)
+* [Contributing](#contributing)
+* [License](#license)
+* [Important Notes](#important-notes)
 
 ---
+
+<h2 id="installation-guide">Installation Guide</h2>
+To get started, follow these steps...
+```markdown
+<h2 id="how-to-use">How to Use</h2>
+Here's how you can use the project...
+```markdown
+## Contributing
+(GitHub automatically generates an ID like `#contributing` for this heading)
+We welcome contributions! Please see our [contribution guidelines](#contributing).
+```markdown
+<h2 id="license">License</h2>
+This project is licensed under the MIT License.
+```html
+<div id="important-notes">
+  ### Important Notes
+  This section contains crucial information about dependencies and known issues.
+</div>
