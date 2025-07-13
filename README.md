@@ -13,6 +13,13 @@ A Bangladeshi Brand Designer elevating the brand development journey of SMEs sin
 
 
 ## Skills:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ai,ps,pr,au,ae,figma,autocad,latex,notion,wordpress,git,github,discord,windows,apple,linux,mint,kali,debian,vercel,vscode,pycharm,linkedin,gmail,powershell&perline=6" />
+  </a>
+</p>
+
+
 [![My Skills](https://skillicons.dev/icons?i=ai,ps,pr,au,ae,figma,autocad,latex,notion,wordpress,git,github,discord,windows,apple,linux,mint,kali,debian,vercel,vscode,pycharm,linkedin,gmail,powershell&perline=6)](https://linkedin.com/in/abdullah-al-fahim)
 
 
