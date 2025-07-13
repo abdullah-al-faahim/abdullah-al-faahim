@@ -20,11 +20,6 @@ A Bangladeshi Brand Designer elevating the brand development journey of SMEs sin
 [![My Skills](https://skillicons.dev/icons?i=ai,ps,pr,au,ae,figma,autocad,blender,xd,html,css,js,latex,notion,wordpress,git,github,gitlab,discord,windows,apple,linux,mint,kali,debian,arch,aws,azure,visualstudio,vercel,vscode,pycharm,linkedin,gmail,powershell&perline=10)](https://skillicons.dev)
 
 
----
-@itsalfaahim
-
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsalfaahim/itsalfaahim/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsalfaahim/itsalfaahim/output/github-snake.svg" />
@@ -33,3 +28,5 @@ A Bangladeshi Brand Designer elevating the brand development journey of SMEs sin
 
 
 ---
+
+@itsalfahim
