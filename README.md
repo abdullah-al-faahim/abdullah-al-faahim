@@ -16,7 +16,7 @@ A Bangladeshi Brand Designer elevating the brand development journey of SMEs sin
 
 
 ## Skills:
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,js&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,js, ai, ps, figma, xd, latex&perline=4)](https://skillicons.dev)
 
 
 ---
