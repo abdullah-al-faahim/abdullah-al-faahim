@@ -1,7 +1,8 @@
 <img src="github-README-cover.jpg" alt="GitHub Banner" width="100%" />
 
 
-# Hello World! This is Abdullah Al Fahim.
+# Hello World!
+This is Abdullah Al Fahim.
 
 
 ## About Me
