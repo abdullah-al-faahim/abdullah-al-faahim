@@ -1,11 +1,12 @@
 <img src="github-README-cover.jpg" alt="GitHub Banner" width="100%" />
 
 
-# Hello World! This is Abdullah Al Fahim
-A Bangladeshi Brand Designer elevating the brand development journey of SMEs since 2018
+# Hello World!
 
 # 💫 About Me
- 🐱‍💻Founder & Creative Director, [**Utopia Designs Inc.**](https://utopiadesigns.agency/) <br>💼 I'm currently working as a Broadcast Engineer at Channel I, 1st Digital Satellite Television Network in Bangladesh Since 1999.<br>👨‍🎓 Studied BSc. in Electronics & Communication Engineering from National University Bangladesh<br>🌐 Working as a Brand Designer from the last 7 years.
+This is Abdullah Al Fahim
+A Bangladeshi Brand Designer elevating the brand development journey of SMEs since 2018. <br>
+ 🐱‍💻Founder & Creative Director, [**Utopia Designs Inc.**](https://utopiadesigns.agency/) <br>💼 I'm currently working as a Broadcast Engineer at Channel I, 1st Digital Satellite Television Network in Bangladesh Since 1999.<br>
 
  [Visit My Portfolio](https://be.net/hire-fahim)
 
