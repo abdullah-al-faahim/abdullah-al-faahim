@@ -20,8 +20,6 @@ A Bangladeshi Brand Designer elevating the brand development journey of SMEs sin
 </p>
 
 
-[![My Skills](https://skillicons.dev/icons?i=ai,ps,pr,au,ae,figma,autocad,latex,notion,wordpress,git,github,discord,windows,apple,linux,mint,kali,debian,vercel,vscode,pycharm,linkedin,gmail,powershell&perline=6)](https://linkedin.com/in/abdullah-al-fahim)
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsalfaahim/itsalfaahim/output/github-snake-dark.svg" />
