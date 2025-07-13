@@ -28,5 +28,3 @@ A Bangladeshi Brand Designer elevating the brand development journey of SMEs sin
 
 
 ---
-
-@itsalfahim
