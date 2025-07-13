@@ -11,6 +11,16 @@ A Bangladeshi Brand Designer elevating the brand development journey of SMEs sin
 - Studied BSc. in **Electronics & Communication Engineering (ECE)** at Institute of Science, Trade & Technology (ISTT) affiliated with National University of Bangladesh. <br>
 
 
+
+## Technologies:
+<p align="center">
+  <a href="https://linkedin.com/in/abdullah-al-fahim">
+    <img src="https://skillicons.dev/icons?i=ai,ps,pr,au,ae,figma,autocad,latex,notion,wordpress,git,github,discord,windows,apple,linux,mint,kali,debian,vercel,vscode,pycharm,linkedin,gmail,powershell&perline=10" />
+  </a>
+</p>
+
+
+
 ## Skills:
 - **Tech Skills:** System Administration, IT Support, Network Configuration, Cyber Security Practices, Data Analysis (Excel),
 Design System Development, Graphic Design, WordPress Customization, Technical Documentation, Branding, Logo Design, Drafting and Annotation, Graphic Design, Video Editing
@@ -21,13 +31,6 @@ Harminic.
 - **Organizational Skills:** Strategic Communication, Cross-functional Collaboration, Time Management, Event Planning,
 Leadership, Public Speaking, Training Facilitation, Detail-Oriented Execution.
 
-
-## Technologies:
-<p align="center">
-  <a href="https://linkedin.com/in/abdullah-al-fahim">
-    <img src="https://skillicons.dev/icons?i=ai,ps,pr,au,ae,figma,autocad,latex,notion,wordpress,git,github,discord,windows,apple,linux,mint,kali,debian,vercel,vscode,pycharm,linkedin,gmail,powershell&perline=10" />
-  </a>
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsalfaahim/itsalfaahim/output/github-snake-dark.svg" />
