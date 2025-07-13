@@ -12,7 +12,12 @@ A Bangladeshi Brand Designer elevating the brand development journey of SMEs sin
 
 
 ## Skills:
-
+- Creative Skills:
+- Web Development:
+- Broadcast Technology: 
+- Documentations:
+- Organizational Skills:
+- Leadership Skills:
 
 
 ### Technologies:
