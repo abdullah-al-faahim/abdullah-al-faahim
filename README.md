@@ -12,8 +12,8 @@ A Bangladeshi Brand Designer elevating the brand development journey of SMEs sin
 
 
 ## Skills:
-- **Creative Skills:**
-- **Web Development:**
+- **Creative Skills:** Branding, Logo Design, Drafting and Annotation, Graphic Design, Video Editing
+- **Web Development:** WordPress, HTML, CSS, Google Sites,WebApp
 - **Broadcast Technology:** 
 - **Documentations:**
 - **Organizational Skills:**
