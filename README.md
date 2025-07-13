@@ -8,8 +8,7 @@ A Bangladeshi Brand Designer elevating the brand development journey of SMEs sin
 ## About Me
 
 🏣 Currently working as a Broadcast Engineer (Transmission) at Channel i, 1st Digital Satellite Television Network in Bangladesh Since 1998.<br>
-
- [Portfolio](https://behance.net/hire-fahim)
+[Portfolio](https://behance.net/hire-fahim)
 ---
 
 
