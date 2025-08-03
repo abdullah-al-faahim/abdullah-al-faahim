@@ -1,4 +1,4 @@
-<img src="hello-world.jpg" alt="GitHub Banner" width="100%" />
+<img src="hello-world-2.jpg" alt="GitHub Banner" width="100%" />
 
 
 # I'm Abdullah Al Fahim [![](https://img.shields.io/github/followers/Itsalfaahim)](https://github.com/itsalfaahim)
