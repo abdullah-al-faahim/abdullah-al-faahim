@@ -1,4 +1,4 @@
-<img src="hello-world.jpg" alt="GitHub Banner" width="100%" />
+<img src="GitHub Cover.png" alt="GitHub Banner" width="100%" />
 
 
 # I'm Abdullah Al Fahim
