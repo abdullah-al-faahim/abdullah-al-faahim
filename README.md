@@ -1,42 +1,165 @@
 <img src="GitHub Cover.png" alt="GitHub Banner" width="100%" />
 
+<div align="center">
 
-# I'm Abdullah Al Fahim
+<a href="https://github.com/abdullah-al-faahim">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=3DDBB2&center=true&vCenter=true&width=640&lines=Broadcast+Operations+Engineer+%40+Channel+i;Brand+Identity+Designer+%E2%80%94+7%2B+years;IT+%C2%B7+Networks+%C2%B7+Systems;Engineering+the+signal.+Designing+the+brand." alt="Typing intro" />
+</a>
 
-A Bangladeshi Broadcast Operations Engineer & IT Expert. <br> <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-al-fahim) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/hire-fahim) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/abdullah.al.faahim) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdullahalfahim_) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/utopiadesignsbd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alfahim604@yahoo.com)
+<br />
 
-## About Me:
-- Currently working as a Broadcast Engineer (Transmission) at Channel i, 1st Digital Satellite Television Network in Bangladesh Since 1998.<br>
-- Leveraging the technology, innovation and creativity as a Brand Designer for the last 7 years.<br>
-- Studied BSc. in **Electronics & Communication Engineering (ECE)** at Institute of Science, Trade & Technology (ISTT) affiliated with National University of Bangladesh. <br>
+<a href="https://linkedin.com/in/abdullah-al-fahim"><img src="https://img.shields.io/badge/LinkedIn-0F2F33?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzNEREJCMiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXpNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+" alt="LinkedIn" /></a>
+<a href="https://behance.net/hire-fahim"><img src="https://img.shields.io/badge/Behance-0F2F33?style=for-the-badge&logo=behance&logoColor=3DDBB2" alt="Behance" /></a>
+<a href="mailto:alfahim604@yahoo.com"><img src="https://img.shields.io/badge/Email-0F2F33?style=for-the-badge&logo=minutemailer&logoColor=3DDBB2" alt="Email" /></a>
+<a href="https://www.facebook.com/abdullah.al.faahim"><img src="https://img.shields.io/badge/Facebook-0F2F33?style=for-the-badge&logo=facebook&logoColor=3DDBB2" alt="Facebook" /></a>
+<a href="https://instagram.com/abdullahalfahim_"><img src="https://img.shields.io/badge/Instagram-0F2F33?style=for-the-badge&logo=instagram&logoColor=3DDBB2" alt="Instagram" /></a>
+<a href="https://pinterest.com/utopiadesignsbd"><img src="https://img.shields.io/badge/Pinterest-0F2F33?style=for-the-badge&logo=pinterest&logoColor=3DDBB2" alt="Pinterest" /></a>
 
+<br />
 
+<img src="https://img.shields.io/badge/Based%20in-Dhaka%2C%20Bangladesh-3DDBB2?style=flat-square&labelColor=0F2F33" alt="Based in Dhaka, Bangladesh" />
+<img src="https://img.shields.io/badge/Open%20to-Design%20%26%20IT%20projects-3DDBB2?style=flat-square&labelColor=0F2F33" alt="Open to design and IT projects" />
+<a href="https://github.com/abdullah-al-faahim?tab=followers"><img src="https://img.shields.io/github/followers/abdullah-al-faahim?label=Followers&style=flat-square&color=3DDBB2&labelColor=0F2F33" alt="GitHub followers" /></a>
 
+</div>
 
+---
 
-## Technologies:
+## 👋 About Me
+
+I'm **Abdullah Al Fahim**, a Bangladeshi **Broadcast Operations Engineer** and **IT expert** who also designs brands. I keep a TV network on air, keep systems running, and build visual identities.
+
+- 📡 **Broadcast Engineer (Transmission)** at **[Channel i](https://www.channelionline.com)**, Bangladesh's first digital satellite television network
+- 🎨 **Brand Identity Designer** for 7+ years, working on brand guidelines, assets and visual identity
+- 🛠️ Builds small, practical tools for broadcast teams and everyday life in Bangladesh
+- 🎓 **BSc in Electronics & Communication Engineering (ECE)** at the Institute of Science, Trade & Technology (ISTT), National University of Bangladesh
+
+---
+
+## 🧰 Tools & Technologies
+
+<table>
+  <tr>
+    <td align="center" width="140"><b>Design & Media</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ai,ps,pr,ae,au,figma,autocad&theme=dark" alt="Design and media tools" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Web & Docs</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,wordpress,latex,notion,md&theme=dark" alt="Web and documentation tools" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Dev Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,powershell,bash,vercel,discord&theme=dark" alt="Developer tools" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Operating Systems</b></td>
+    <td><img src="https://skillicons.dev/icons?i=windows,apple,linux,debian,mint,kali&theme=dark" alt="Operating systems" /></td>
+  </tr>
+</table>
+
+---
+
+## 💼 Skills & Expertise
+
+| Area | Expertise |
+| :--- | :--- |
+| 📡 **Broadcast Technology** | Grass Valley · Ross Video · Imagine Communications · Harris · Ericsson Transceivers · TVU Networks · LiveU · Harmonic |
+| 🖥️ **IT & Infrastructure** | System Administration · IT Support · Network Configuration · Cyber Security Practices · Data Analysis (Excel) |
+| 🎨 **Design & Branding** | Brand Identity · Logo Design · Design Systems · Graphic Design · Video Editing · Drafting & Annotation |
+| 🌐 **Web** | WordPress Customization · HTML · CSS · Google Sites · Web Apps |
+| 📝 **Documentation** | LaTeX · Notion · MS Word · Technical Documentation · Report Writing |
+| 🤝 **Leadership** | Strategic Communication · Cross-functional Collaboration · Training Facilitation · Event Planning · Public Speaking · Time Management |
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/abdullah-al-faahim/finutopia-releases">💰 FinUtopia</a></h4>
+      A private, offline money manager built for Bangladesh, in Bangla and English.
+      <br /><br />
+      <img src="https://img.shields.io/badge/Android-0F2F33?style=flat-square&logo=android&logoColor=3DDBB2" alt="Android" />
+      <img src="https://img.shields.io/badge/Finance-0F2F33?style=flat-square" alt="Finance" />
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/abdullah-al-faahim/Windows-11-Customization">🪟 Windows 11 Customization</a></h4>
+      Configs and themes for GlazeWM, yasb, Windhawk, Flow Launcher, Terminal and more, to turn Windows 11 into a focused workspace.
+      <br /><br />
+      <img src="https://img.shields.io/badge/PowerShell-0F2F33?style=flat-square&logo=gnometerminal&logoColor=3DDBB2" alt="PowerShell" />
+      <img src="https://img.shields.io/github/stars/abdullah-al-faahim/Windows-11-Customization?style=flat-square&color=3DDBB2&labelColor=0F2F33" alt="Stars" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/abdullah-al-faahim/Channel-i-MCR-Leave-Application">📺 Channel i MCR Leave Application</a></h4>
+      An internal leave-application tool for the Master Control Room team at Channel i.
+      <br /><br />
+      <img src="https://img.shields.io/badge/HTML-0F2F33?style=flat-square&logo=html5&logoColor=3DDBB2" alt="HTML" />
+      <img src="https://img.shields.io/badge/Broadcast-0F2F33?style=flat-square" alt="Broadcast" />
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/abdullah-al-faahim/Telecast-Time-Calculator">⏱️ Telecast Time Calculator</a></h4>
+      An offline Android app to add, compare and convert durations, built for on-air timing work.
+      <br /><br />
+      <img src="https://img.shields.io/badge/HTML%2FJS-0F2F33?style=flat-square&logo=javascript&logoColor=3DDBB2" alt="HTML/JS" />
+      <img src="https://img.shields.io/badge/Android-0F2F33?style=flat-square&logo=android&logoColor=3DDBB2" alt="Android" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/abdullah-al-faahim/zakat-calculator">🕌 Zakat Calculator (Bangla)</a></h4>
+      A Shariah-compliant zakat calculator in Bengali, in a single dependency-free HTML file.
+      <br /><br />
+      <img src="https://img.shields.io/badge/HTML-0F2F33?style=flat-square&logo=html5&logoColor=3DDBB2" alt="HTML" />
+      <img src="https://img.shields.io/badge/Bangla-0F2F33?style=flat-square" alt="Bangla" />
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/abdullah-al-faahim/Bijoy-Bangla-Typing-Practice">⌨️ Bijoy Bangla Typing Practice</a></h4>
+      A web page for building speed and accuracy with the Bijoy Bangla keyboard layout.
+      <br /><br />
+      <img src="https://img.shields.io/badge/HTML-0F2F33?style=flat-square&logo=html5&logoColor=3DDBB2" alt="HTML" />
+      <img src="https://img.shields.io/badge/Bangla-0F2F33?style=flat-square" alt="Bangla" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <a href="https://linkedin.com/in/abdullah-al-fahim">
-    <img src="https://skillicons.dev/icons?i=ai,ps,pr,au,ae,figma,autocad,latex,notion,wordpress,git,github,discord,windows,apple,linux,mint,kali,debian,vercel,vscode,pycharm,linkedin,gmail,powershell&perline=10" />
-  </a>
+  <a href="https://github.com/abdullah-al-faahim?tab=repositories"><img src="https://img.shields.io/badge/See%20all%20repositories-3DDBB2?style=for-the-badge&logo=github&logoColor=0F2F33" alt="See all repositories" /></a>
 </p>
 
+---
 
+## 📊 GitHub Activity
 
-## Skills:
-- **Tech Skills:** System Administration, IT Support, Network Configuration, Cyber Security Practices, Data Analysis (Excel),
-Design System Development, Graphic Design, WordPress Customization, Technical Documentation, Branding, Logo Design, Drafting and Annotation, Graphic Design, Video Editing
-- **Web Development:** WordPress, HTML, CSS, Google Sites,WebApp
-- **Broadcast Technology:** Grass Valley, Ross Video, Imagine Communications, Harris, Erricson Transiver, TUV Networks, LiveU,
-Harminic.
-- **Documentations:** LaTeX, Notion, MS Word, Report Writing.
-- **Organizational Skills:** Strategic Communication, Cross-functional Collaboration, Time Management, Event Planning,
-Leadership, Public Speaking, Training Facilitation, Detail-Oriented Execution.
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abdullah-al-faahim&show_icons=true&hide=prs,issues,contribs&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=3DDBB2&icon_color=3DDBB2&text_color=C9D1D9&ring_color=3DDBB2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=abdullah-al-faahim&show_icons=true&hide=prs,issues,contribs&hide_border=true&rank_icon=github&bg_color=F6F8FA&title_color=0F766E&icon_color=0F766E&text_color=24292F&ring_color=0F766E" />
+    <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=abdullah-al-faahim&show_icons=true&hide=prs,issues,contribs&hide_border=true&rank_icon=github&bg_color=F6F8FA&title_color=0F766E&icon_color=0F766E&text_color=24292F&ring_color=0F766E" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abdullah-al-faahim&hide_border=true&background=0D1117&ring=3DDBB2&fire=3DDBB2&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3DDBB2&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=abdullah-al-faahim&hide_border=true&background=F6F8FA&ring=0F766E&fire=0F766E&currStreakNum=24292F&sideNums=24292F&currStreakLabel=0F766E&sideLabels=24292F&dates=57606A&stroke=D0D7DE" />
+    <img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com?user=abdullah-al-faahim&hide_border=true&background=F6F8FA&ring=0F766E&fire=0F766E&currStreakNum=24292F&sideNums=24292F&currStreakLabel=0F766E&sideLabels=24292F&dates=57606A&stroke=D0D7DE" />
+  </picture>
+</p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsalfaahim/itsalfaahim/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsalfaahim/itsalfaahim/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/itsalfaahim/itsalfaahim/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullah-al-faahim/abdullah-al-faahim/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdullah-al-faahim/abdullah-al-faahim/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/abdullah-al-faahim/abdullah-al-faahim/output/github-snake.svg" />
 </picture>
+
+---
+
+<div align="center">
+
+**Engineering the signal. Designing the brand. Solving problems.**
+
+Let's work together: [LinkedIn](https://linkedin.com/in/abdullah-al-fahim) · [Behance](https://behance.net/hire-fahim) · [Email](mailto:alfahim604@yahoo.com)
+
+<img src="https://komarev.com/ghpvc/?username=abdullah-al-faahim&label=Profile%20views&color=3DDBB2&style=flat-square" alt="Profile views" />
+
+</div>
