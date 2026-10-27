@@ -25,18 +25,18 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm **Abdullah Al Fahim**, a Bangladeshi **Broadcast Operations Engineer** and **IT expert** who also designs brands. I keep a TV network on air, keep systems running, and build visual identities.
 
-- 📡 **Broadcast Engineer (Transmission)** at **[Channel i](https://www.channelionline.com)**, Bangladesh's first digital satellite television network
-- 🎨 **Brand Identity Designer** for 7+ years, working on brand guidelines, assets and visual identity
-- 🛠️ Builds small, practical tools for broadcast teams and everyday life in Bangladesh
-- 🎓 **BSc in Electronics & Communication Engineering (ECE)** at the Institute of Science, Trade & Technology (ISTT), National University of Bangladesh
+- **Broadcast Engineer (Transmission)** at **[Channel i](https://www.channelionline.com)**, Bangladesh's first digital satellite television network
+- **Brand Identity Designer** for 7+ years, working on brand guidelines, assets and visual identity
+- Builds small, practical tools for broadcast teams and everyday life in Bangladesh
+- **BSc in Electronics & Communication Engineering (ECE)** at the Institute of Science, Trade & Technology (ISTT), National University of Bangladesh
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 <table>
   <tr>
@@ -59,68 +59,80 @@ I'm **Abdullah Al Fahim**, a Bangladeshi **Broadcast Operations Engineer** and *
 
 ---
 
-## 💼 Skills & Expertise
+## Skills & Expertise
 
 | Area | Expertise |
 | :--- | :--- |
-| 📡 **Broadcast Technology** | Grass Valley · Ross Video · Imagine Communications · Harris · Ericsson Transceivers · TVU Networks · LiveU · Harmonic |
-| 🖥️ **IT & Infrastructure** | System Administration · IT Support · Network Configuration · Cyber Security Practices · Data Analysis (Excel) |
-| 🎨 **Design & Branding** | Brand Identity · Logo Design · Design Systems · Graphic Design · Video Editing · Drafting & Annotation |
-| 🌐 **Web** | WordPress Customization · HTML · CSS · Google Sites · Web Apps |
-| 📝 **Documentation** | LaTeX · Notion · MS Word · Technical Documentation · Report Writing |
-| 🤝 **Leadership** | Strategic Communication · Cross-functional Collaboration · Training Facilitation · Event Planning · Public Speaking · Time Management |
+| **Broadcast Technology** | Grass Valley · Ross Video · Imagine Communications · Harris · Ericsson Transceivers · TVU Networks · LiveU · Harmonic |
+| **IT & Infrastructure** | System Administration · IT Support · Network Configuration · Cyber Security Practices · Data Analysis (Excel) |
+| **Design & Branding** | Brand Identity · Logo Design · Design Systems · Graphic Design · Video Editing · Drafting & Annotation |
+| **Web** | WordPress Customization · HTML · CSS · Google Sites · Web Apps |
+| **Documentation** | LaTeX · Notion · MS Word · Technical Documentation · Report Writing |
+| **Leadership** | Strategic Communication · Cross-functional Collaboration · Training Facilitation · Event Planning · Public Speaking · Time Management |
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/abdullah-al-faahim/finutopia-releases">💰 FinUtopia</a></h4>
+      <h4>FinUtopia</h4>
       A private, offline money manager built for Bangladesh, in Bangla and English.
       <br /><br />
       <img src="https://img.shields.io/badge/Android-0F2F33?style=flat-square&logo=android&logoColor=3DDBB2" alt="Android" />
       <img src="https://img.shields.io/badge/Finance-0F2F33?style=flat-square" alt="Finance" />
+      <br /><br />
+      <a href="https://github.com/abdullah-al-faahim/finutopia-releases"><img src="https://img.shields.io/badge/View%20project-3DDBB2?style=for-the-badge&logo=github&logoColor=0F2F33" alt="View project" /></a>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/abdullah-al-faahim/Windows-11-Customization">🪟 Windows 11 Customization</a></h4>
+      <h4>Windows 11 Customization</h4>
       Configs and themes for GlazeWM, yasb, Windhawk, Flow Launcher, Terminal and more, to turn Windows 11 into a focused workspace.
       <br /><br />
       <img src="https://img.shields.io/badge/PowerShell-0F2F33?style=flat-square&logo=gnometerminal&logoColor=3DDBB2" alt="PowerShell" />
       <img src="https://img.shields.io/github/stars/abdullah-al-faahim/Windows-11-Customization?style=flat-square&color=3DDBB2&labelColor=0F2F33" alt="Stars" />
+      <br /><br />
+      <a href="https://github.com/abdullah-al-faahim/Windows-11-Customization"><img src="https://img.shields.io/badge/View%20project-3DDBB2?style=for-the-badge&logo=github&logoColor=0F2F33" alt="View project" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/abdullah-al-faahim/Channel-i-MCR-Leave-Application">📺 Channel i MCR Leave Application</a></h4>
+      <h4>Channel i MCR Leave Application</h4>
       An internal leave-application tool for the Master Control Room team at Channel i.
       <br /><br />
       <img src="https://img.shields.io/badge/HTML-0F2F33?style=flat-square&logo=html5&logoColor=3DDBB2" alt="HTML" />
       <img src="https://img.shields.io/badge/Broadcast-0F2F33?style=flat-square" alt="Broadcast" />
+      <br /><br />
+      <a href="https://github.com/abdullah-al-faahim/Channel-i-MCR-Leave-Application"><img src="https://img.shields.io/badge/View%20project-3DDBB2?style=for-the-badge&logo=github&logoColor=0F2F33" alt="View project" /></a>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/abdullah-al-faahim/Telecast-Time-Calculator">⏱️ Telecast Time Calculator</a></h4>
+      <h4>Telecast Time Calculator</h4>
       An offline Android app to add, compare and convert durations, built for on-air timing work.
       <br /><br />
       <img src="https://img.shields.io/badge/HTML%2FJS-0F2F33?style=flat-square&logo=javascript&logoColor=3DDBB2" alt="HTML/JS" />
       <img src="https://img.shields.io/badge/Android-0F2F33?style=flat-square&logo=android&logoColor=3DDBB2" alt="Android" />
+      <br /><br />
+      <a href="https://github.com/abdullah-al-faahim/Telecast-Time-Calculator"><img src="https://img.shields.io/badge/View%20project-3DDBB2?style=for-the-badge&logo=github&logoColor=0F2F33" alt="View project" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/abdullah-al-faahim/zakat-calculator">🕌 Zakat Calculator (Bangla)</a></h4>
+      <h4>Zakat Calculator (Bangla)</h4>
       A Shariah-compliant zakat calculator in Bengali, in a single dependency-free HTML file.
       <br /><br />
       <img src="https://img.shields.io/badge/HTML-0F2F33?style=flat-square&logo=html5&logoColor=3DDBB2" alt="HTML" />
       <img src="https://img.shields.io/badge/Bangla-0F2F33?style=flat-square" alt="Bangla" />
+      <br /><br />
+      <a href="https://github.com/abdullah-al-faahim/zakat-calculator"><img src="https://img.shields.io/badge/View%20project-3DDBB2?style=for-the-badge&logo=github&logoColor=0F2F33" alt="View project" /></a>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/abdullah-al-faahim/Bijoy-Bangla-Typing-Practice">⌨️ Bijoy Bangla Typing Practice</a></h4>
+      <h4>Bijoy Bangla Typing Practice</h4>
       A web page for building speed and accuracy with the Bijoy Bangla keyboard layout.
       <br /><br />
       <img src="https://img.shields.io/badge/HTML-0F2F33?style=flat-square&logo=html5&logoColor=3DDBB2" alt="HTML" />
       <img src="https://img.shields.io/badge/Bangla-0F2F33?style=flat-square" alt="Bangla" />
+      <br /><br />
+      <a href="https://github.com/abdullah-al-faahim/Bijoy-Bangla-Typing-Practice"><img src="https://img.shields.io/badge/View%20project-3DDBB2?style=for-the-badge&logo=github&logoColor=0F2F33" alt="View project" /></a>
     </td>
   </tr>
 </table>
@@ -131,7 +143,7 @@ I'm **Abdullah Al Fahim**, a Bangladeshi **Broadcast Operations Engineer** and *
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <picture>
