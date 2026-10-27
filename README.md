@@ -3,23 +3,27 @@
 <div align="center">
 
 <a href="https://github.com/abdullah-al-faahim">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=3DDBB2&center=true&vCenter=true&width=640&lines=Broadcast+Operations+Engineer+%40+Channel+i;Brand+Identity+Designer+%E2%80%94+7%2B+years;IT+%C2%B7+Networks+%C2%B7+Systems;Engineering+the+signal.+Designing+the+brand." alt="Typing intro" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=3DDBB2&center=true&vCenter=true&width=640&lines=Broadcast+Operations+Engineer+%40+Channel+i;Brand+Identity+Designer+%E2%80%94+7%2B+years;IT+%C2%B7+Networks+%C2%B7+Systems;Engineering+the+signal.+Designing+the+brand." />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=0F766E&center=true&vCenter=true&width=640&lines=Broadcast+Operations+Engineer+%40+Channel+i;Brand+Identity+Designer+%E2%80%94+7%2B+years;IT+%C2%B7+Networks+%C2%B7+Systems;Engineering+the+signal.+Designing+the+brand." />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=0F766E&center=true&vCenter=true&width=640&lines=Broadcast+Operations+Engineer+%40+Channel+i;Brand+Identity+Designer+%E2%80%94+7%2B+years;IT+%C2%B7+Networks+%C2%B7+Systems;Engineering+the+signal.+Designing+the+brand." alt="Typing intro" />
+  </picture>
 </a>
 
 <br />
 
-<a href="https://linkedin.com/in/abdullah-al-fahim"><img src="https://img.shields.io/badge/LinkedIn-0F2F33?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzNEREJCMiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXpNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+" alt="LinkedIn" /></a>
-<a href="https://behance.net/hire-fahim"><img src="https://img.shields.io/badge/Behance-0F2F33?style=for-the-badge&logo=behance&logoColor=3DDBB2" alt="Behance" /></a>
-<a href="mailto:alfahim604@yahoo.com"><img src="https://img.shields.io/badge/Email-0F2F33?style=for-the-badge&logo=minutemailer&logoColor=3DDBB2" alt="Email" /></a>
-<a href="https://www.facebook.com/abdullah.al.faahim"><img src="https://img.shields.io/badge/Facebook-0F2F33?style=for-the-badge&logo=facebook&logoColor=3DDBB2" alt="Facebook" /></a>
-<a href="https://instagram.com/abdullahalfahim_"><img src="https://img.shields.io/badge/Instagram-0F2F33?style=for-the-badge&logo=instagram&logoColor=3DDBB2" alt="Instagram" /></a>
-<a href="https://pinterest.com/utopiadesignsbd"><img src="https://img.shields.io/badge/Pinterest-0F2F33?style=for-the-badge&logo=pinterest&logoColor=3DDBB2" alt="Pinterest" /></a>
+<a href="https://linkedin.com/in/abdullah-al-fahim"><img src="https://img.shields.io/badge/LinkedIn-0F766E?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXpNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+" alt="LinkedIn" /></a>
+<a href="https://behance.net/hire-fahim"><img src="https://img.shields.io/badge/Behance-0F766E?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+<a href="mailto:alfahim604@yahoo.com"><img src="https://img.shields.io/badge/Email-0F766E?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" /></a>
+<a href="https://www.facebook.com/abdullah.al.faahim"><img src="https://img.shields.io/badge/Facebook-0F766E?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://instagram.com/abdullahalfahim_"><img src="https://img.shields.io/badge/Instagram-0F766E?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://pinterest.com/utopiadesignsbd"><img src="https://img.shields.io/badge/Pinterest-0F766E?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
 
 <br />
 
-<img src="https://img.shields.io/badge/Based%20in-Dhaka%2C%20Bangladesh-3DDBB2?style=flat-square&labelColor=0F2F33" alt="Based in Dhaka, Bangladesh" />
-<img src="https://img.shields.io/badge/Open%20to-Design%20%26%20IT%20projects-3DDBB2?style=flat-square&labelColor=0F2F33" alt="Open to design and IT projects" />
-<a href="https://github.com/abdullah-al-faahim?tab=followers"><img src="https://img.shields.io/github/followers/abdullah-al-faahim?label=Followers&style=flat-square&color=3DDBB2&labelColor=0F2F33" alt="GitHub followers" /></a>
+<img src="https://img.shields.io/badge/Based%20in-Dhaka%2C%20Bangladesh-0F766E?style=flat-square&labelColor=59636E" alt="Based in Dhaka, Bangladesh" />
+<img src="https://img.shields.io/badge/Open%20to-Design%20%26%20IT%20projects-0F766E?style=flat-square&labelColor=59636E" alt="Open to design and IT projects" />
+<a href="https://github.com/abdullah-al-faahim?tab=followers"><img src="https://img.shields.io/github/followers/abdullah-al-faahim?label=Followers&style=flat-square&color=0F766E&labelColor=59636E" alt="GitHub followers" /></a>
 
 </div>
 
@@ -80,19 +84,19 @@ I'm **Abdullah Al Fahim**, a Bangladeshi **Broadcast Operations Engineer** and *
       <h4>FinUtopia</h4>
       A private, offline money manager built for Bangladesh, in Bangla and English.
       <br /><br />
-      <img src="https://img.shields.io/badge/Android-0F2F33?style=flat-square&logo=android&logoColor=3DDBB2" alt="Android" />
-      <img src="https://img.shields.io/badge/Finance-0F2F33?style=flat-square" alt="Finance" />
+      <img src="https://img.shields.io/badge/Android-59636E?style=flat-square&logo=android&logoColor=white" alt="Android" />
+      <img src="https://img.shields.io/badge/Finance-59636E?style=flat-square" alt="Finance" />
       <br /><br />
-      <a href="https://github.com/abdullah-al-faahim/finutopia-releases"><img src="https://img.shields.io/badge/View%20project-3DDBB2?style=for-the-badge&logo=github&logoColor=0F2F33" alt="View project" /></a>
+      <a href="https://github.com/abdullah-al-faahim/finutopia-releases"><img src="https://img.shields.io/badge/View%20project-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="View project" /></a>
     </td>
     <td width="50%" valign="top">
       <h4>Windows 11 Customization</h4>
       Configs and themes for GlazeWM, yasb, Windhawk, Flow Launcher, Terminal and more, to turn Windows 11 into a focused workspace.
       <br /><br />
-      <img src="https://img.shields.io/badge/PowerShell-0F2F33?style=flat-square&logo=gnometerminal&logoColor=3DDBB2" alt="PowerShell" />
-      <img src="https://img.shields.io/github/stars/abdullah-al-faahim/Windows-11-Customization?style=flat-square&color=3DDBB2&labelColor=0F2F33" alt="Stars" />
+      <img src="https://img.shields.io/badge/PowerShell-59636E?style=flat-square&logo=gnometerminal&logoColor=white" alt="PowerShell" />
+      <img src="https://img.shields.io/github/stars/abdullah-al-faahim/Windows-11-Customization?style=flat-square&color=0F766E&labelColor=59636E" alt="Stars" />
       <br /><br />
-      <a href="https://github.com/abdullah-al-faahim/Windows-11-Customization"><img src="https://img.shields.io/badge/View%20project-3DDBB2?style=for-the-badge&logo=github&logoColor=0F2F33" alt="View project" /></a>
+      <a href="https://github.com/abdullah-al-faahim/Windows-11-Customization"><img src="https://img.shields.io/badge/View%20project-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="View project" /></a>
     </td>
   </tr>
   <tr>
@@ -100,19 +104,19 @@ I'm **Abdullah Al Fahim**, a Bangladeshi **Broadcast Operations Engineer** and *
       <h4>Channel i MCR Leave Application</h4>
       An internal leave-application tool for the Master Control Room team at Channel i.
       <br /><br />
-      <img src="https://img.shields.io/badge/HTML-0F2F33?style=flat-square&logo=html5&logoColor=3DDBB2" alt="HTML" />
-      <img src="https://img.shields.io/badge/Broadcast-0F2F33?style=flat-square" alt="Broadcast" />
+      <img src="https://img.shields.io/badge/HTML-59636E?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+      <img src="https://img.shields.io/badge/Broadcast-59636E?style=flat-square" alt="Broadcast" />
       <br /><br />
-      <a href="https://github.com/abdullah-al-faahim/Channel-i-MCR-Leave-Application"><img src="https://img.shields.io/badge/View%20project-3DDBB2?style=for-the-badge&logo=github&logoColor=0F2F33" alt="View project" /></a>
+      <a href="https://github.com/abdullah-al-faahim/Channel-i-MCR-Leave-Application"><img src="https://img.shields.io/badge/View%20project-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="View project" /></a>
     </td>
     <td width="50%" valign="top">
       <h4>Telecast Time Calculator</h4>
       An offline Android app to add, compare and convert durations, built for on-air timing work.
       <br /><br />
-      <img src="https://img.shields.io/badge/HTML%2FJS-0F2F33?style=flat-square&logo=javascript&logoColor=3DDBB2" alt="HTML/JS" />
-      <img src="https://img.shields.io/badge/Android-0F2F33?style=flat-square&logo=android&logoColor=3DDBB2" alt="Android" />
+      <img src="https://img.shields.io/badge/HTML%2FJS-59636E?style=flat-square&logo=javascript&logoColor=white" alt="HTML/JS" />
+      <img src="https://img.shields.io/badge/Android-59636E?style=flat-square&logo=android&logoColor=white" alt="Android" />
       <br /><br />
-      <a href="https://github.com/abdullah-al-faahim/Telecast-Time-Calculator"><img src="https://img.shields.io/badge/View%20project-3DDBB2?style=for-the-badge&logo=github&logoColor=0F2F33" alt="View project" /></a>
+      <a href="https://github.com/abdullah-al-faahim/Telecast-Time-Calculator"><img src="https://img.shields.io/badge/View%20project-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="View project" /></a>
     </td>
   </tr>
   <tr>
@@ -120,25 +124,25 @@ I'm **Abdullah Al Fahim**, a Bangladeshi **Broadcast Operations Engineer** and *
       <h4>Zakat Calculator (Bangla)</h4>
       A Shariah-compliant zakat calculator in Bengali, in a single dependency-free HTML file.
       <br /><br />
-      <img src="https://img.shields.io/badge/HTML-0F2F33?style=flat-square&logo=html5&logoColor=3DDBB2" alt="HTML" />
-      <img src="https://img.shields.io/badge/Bangla-0F2F33?style=flat-square" alt="Bangla" />
+      <img src="https://img.shields.io/badge/HTML-59636E?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+      <img src="https://img.shields.io/badge/Bangla-59636E?style=flat-square" alt="Bangla" />
       <br /><br />
-      <a href="https://github.com/abdullah-al-faahim/zakat-calculator"><img src="https://img.shields.io/badge/View%20project-3DDBB2?style=for-the-badge&logo=github&logoColor=0F2F33" alt="View project" /></a>
+      <a href="https://github.com/abdullah-al-faahim/zakat-calculator"><img src="https://img.shields.io/badge/View%20project-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="View project" /></a>
     </td>
     <td width="50%" valign="top">
       <h4>Bijoy Bangla Typing Practice</h4>
       A web page for building speed and accuracy with the Bijoy Bangla keyboard layout.
       <br /><br />
-      <img src="https://img.shields.io/badge/HTML-0F2F33?style=flat-square&logo=html5&logoColor=3DDBB2" alt="HTML" />
-      <img src="https://img.shields.io/badge/Bangla-0F2F33?style=flat-square" alt="Bangla" />
+      <img src="https://img.shields.io/badge/HTML-59636E?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+      <img src="https://img.shields.io/badge/Bangla-59636E?style=flat-square" alt="Bangla" />
       <br /><br />
-      <a href="https://github.com/abdullah-al-faahim/Bijoy-Bangla-Typing-Practice"><img src="https://img.shields.io/badge/View%20project-3DDBB2?style=for-the-badge&logo=github&logoColor=0F2F33" alt="View project" /></a>
+      <a href="https://github.com/abdullah-al-faahim/Bijoy-Bangla-Typing-Practice"><img src="https://img.shields.io/badge/View%20project-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="View project" /></a>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/abdullah-al-faahim?tab=repositories"><img src="https://img.shields.io/badge/See%20all%20repositories-3DDBB2?style=for-the-badge&logo=github&logoColor=0F2F33" alt="See all repositories" /></a>
+  <a href="https://github.com/abdullah-al-faahim?tab=repositories"><img src="https://img.shields.io/badge/See%20all%20repositories-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="See all repositories" /></a>
 </p>
 
 ---
@@ -172,6 +176,6 @@ I'm **Abdullah Al Fahim**, a Bangladeshi **Broadcast Operations Engineer** and *
 
 Let's work together: [LinkedIn](https://linkedin.com/in/abdullah-al-fahim) · [Behance](https://behance.net/hire-fahim) · [Email](mailto:alfahim604@yahoo.com)
 
-<img src="https://komarev.com/ghpvc/?username=abdullah-al-faahim&label=Profile%20views&color=3DDBB2&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=abdullah-al-faahim&label=Profile%20views&color=0F766E&style=flat-square" alt="Profile views" />
 
 </div>
