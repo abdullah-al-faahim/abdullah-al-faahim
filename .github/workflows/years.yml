@@ -1,0 +1,31 @@
+name: Update Years of Experience
+
+on:
+  # Check on the first day of every month; the count changes each January
+  schedule:
+    - cron: "0 1 1 * *"
+  # Allow manual triggering of the workflow
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+      - name: Update year count in README
+        run: python scripts/update-years.py
+      - name: Commit if the count changed
+        run: |
+          if git diff --quiet README.md; then
+            echo "No change."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Update years of brand identity experience"
+          git push

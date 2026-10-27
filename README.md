@@ -3,9 +3,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=22&pause=1400&color=B4ADFF&center=true&vCenter=true&width=640&lines=Broadcast+Operations+Engineer+%40+Channel+i;Brand+Identity+Designer+%C2%B7+7%2B+years;IT+%C2%B7+Networks+%C2%B7+Systems;Engineering+the+signal.+Designing+the+brand." />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=22&pause=1400&color=3A10AD&center=true&vCenter=true&width=640&lines=Broadcast+Operations+Engineer+%40+Channel+i;Brand+Identity+Designer+%C2%B7+7%2B+years;IT+%C2%B7+Networks+%C2%B7+Systems;Engineering+the+signal.+Designing+the+brand." />
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=22&pause=1400&color=3A10AD&center=true&vCenter=true&width=640&lines=Broadcast+Operations+Engineer+%40+Channel+i;Brand+Identity+Designer+%C2%B7+7%2B+years;IT+%C2%B7+Networks+%C2%B7+Systems;Engineering+the+signal.+Designing+the+brand." alt="Broadcast Operations Engineer at Channel i. Brand Identity Designer, 7+ years. IT, networks and systems." />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=22&pause=1400&color=B4ADFF&center=true&vCenter=true&width=640&lines=Broadcast+Operations+Engineer+%40+Channel+i;Brand+Identity+Designer+%C2%B7+8+years;IT+%C2%B7+Networks+%C2%B7+Systems;Engineering+the+signal.+Designing+the+brand." />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=22&pause=1400&color=3A10AD&center=true&vCenter=true&width=640&lines=Broadcast+Operations+Engineer+%40+Channel+i;Brand+Identity+Designer+%C2%B7+8+years;IT+%C2%B7+Networks+%C2%B7+Systems;Engineering+the+signal.+Designing+the+brand." />
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=22&pause=1400&color=3A10AD&center=true&vCenter=true&width=640&lines=Broadcast+Operations+Engineer+%40+Channel+i;Brand+Identity+Designer+%C2%B7+8+years;IT+%C2%B7+Networks+%C2%B7+Systems;Engineering+the+signal.+Designing+the+brand." alt="Broadcast Operations Engineer at Channel i. Brand Identity Designer, 8 years. IT, networks and systems." />
 </picture>
 
 <a href="https://linkedin.com/in/abdullah-al-fahim"><img src="https://img.shields.io/badge/LinkedIn-6B4AFF?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXpNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+" alt="LinkedIn" /></a>
@@ -36,7 +36,7 @@ I'm Abdullah Al Fahim, a Broadcast Operations Engineer from Dhaka. I keep Channe
   <tr>
     <td valign="top">Transmission, encoding and live contribution for a national satellite TV network.</td>
     <td valign="top">System administration, networks, IT support and security practices.</td>
-    <td valign="top">Brand guidelines, logos and visual identity systems, for 7+ years.</td>
+    <td valign="top">Brand guidelines, logos and visual identity systems since 2018, <!--years-->8<!--/years--> years and counting.</td>
   </tr>
 </table>
 
@@ -44,8 +44,8 @@ I'm Abdullah Al Fahim, a Broadcast Operations Engineer from Dhaka. I keep Channe
 
 | Role | Where | Focus |
 | :--- | :--- | :--- |
-| **Broadcast Engineer, Transmission** | [Channel i](https://www.channelionline.com) | Bangladesh's first digital satellite television network |
-| **Brand Identity Designer** | Independent, [Behance](https://behance.net/hire-fahim) | Brand guidelines, brand assets and identity design |
+| **Broadcast Engineer, Transmission** | <a href="https://www.channelionline.com"><img src="https://upload.wikimedia.org/wikipedia/en/8/88/Channel-i.svg" height="32" alt="Channel i" /></a> | Bangladesh's first digital satellite television network |
+| **Brand Identity Designer** | Independent, [Behance](https://behance.net/hire-fahim) | Brand guidelines, brand assets and identity design since 2018 (<!--years-->8<!--/years--> years) |
 | **BSc, Electronics &amp; Communication Engineering** | ISTT, National University of Bangladesh | Electronics, communication systems and signal processing |
 
 I also write technical documentation, run training sessions, and plan events across teams.
