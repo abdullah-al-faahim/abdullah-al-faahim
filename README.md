@@ -99,19 +99,6 @@ I also write technical documentation, run training sessions, and plan events acr
   <a href="https://github.com/abdullah-al-faahim?tab=repositories"><img src="https://img.shields.io/badge/All%20repositories-6B4AFF?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" /></a>
 </p>
 
-## GitHub activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abdullah-al-faahim&show_icons=true&hide=prs,issues,contribs&hide_border=true&rank_icon=github&bg_color=161B22&title_color=B4ADFF&icon_color=8F7EFF&text_color=E6EDF3&ring_color=8F7EFF" />
-    <img height="165" alt="GitHub stats: total stars and commits" src="https://github-readme-stats.vercel.app/api?username=abdullah-al-faahim&show_icons=true&hide=prs,issues,contribs&hide_border=true&rank_icon=github&bg_color=F6F8FA&title_color=3A10AD&icon_color=5A25FF&text_color=1F2328&ring_color=5A25FF" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abdullah-al-faahim&hide_border=true&background=161B22&ring=8F7EFF&fire=B4ADFF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=B4ADFF&sideLabels=9198A1&dates=9198A1&stroke=30363D" />
-    <img height="165" alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=abdullah-al-faahim&hide_border=true&background=F6F8FA&ring=5A25FF&fire=5A25FF&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=3A10AD&sideLabels=59636E&dates=59636E&stroke=D0D7DE" />
-  </picture>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullah-al-faahim/abdullah-al-faahim/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdullah-al-faahim/abdullah-al-faahim/output/github-snake.svg" />
