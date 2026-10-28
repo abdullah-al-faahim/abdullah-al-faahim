@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/Based%20in-Dhaka%2C%20Bangladesh-6B4AFF?style=flat-square&labelColor=6E6A86" alt="Based in Dhaka, Bangladesh" />
 <img src="https://img.shields.io/badge/Open%20to-Design%20%26%20IT%20projects-6B4AFF?style=flat-square&labelColor=6E6A86" alt="Open to design and IT projects" />
 <a href="https://github.com/abdullah-al-faahim?tab=followers"><img src="https://img.shields.io/github/followers/abdullah-al-faahim?label=Followers&style=flat-square&color=6B4AFF&labelColor=6E6A86" alt="GitHub followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=abdullah-al-faahim&label=Profile%20views&color=6B4AFF&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -114,7 +115,5 @@ I also write technical documentation, run training sessions, and plan events acr
 **Engineering the signal. Designing the brand. Solving problems.**
 
 [LinkedIn](https://linkedin.com/in/abdullah-al-fahim) · [Behance](https://behance.net/hire-fahim) · [Email](mailto:alfahim604@yahoo.com)
-
-<img src="https://komarev.com/ghpvc/?username=abdullah-al-faahim&label=Profile%20views&color=6B4AFF&style=flat-square" alt="Profile views" />
 
 </div>
