@@ -60,6 +60,13 @@ PROJECTS = [
         "lines": ["Build speed and accuracy on the Bijoy", "Bangla keyboard layout."],
         "tags": ["HTML", "Bangla"],
     },
+    {
+        "slug": "electronics-circuit",
+        "eyebrow": "Electronics · NI Multisim",
+        "title": "Electronics Circuits Lab",
+        "lines": ["23 NI Multisim projects: op-amps, flip-flops,", "logic gates, diodes and AC analysis."],
+        "tags": ["Multisim", "ECE"],
+    },
 ]
 
 # Design system tokens per theme
