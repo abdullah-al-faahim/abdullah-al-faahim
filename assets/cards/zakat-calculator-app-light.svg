@@ -7,10 +7,10 @@
 <circle cx="420" cy="0" r="16" fill="#E9E7FF"/>
 </g>
 <rect x="0.5" y="0.5" width="419" height="195" rx="11.5" fill="none" stroke="#D0D7DE"/>
-<text x="24" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="1.2" fill="#3A10AD">BANGLA TOOLS · WEB</text>
+<text x="24" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="1.2" fill="#3A10AD">BANGLA TOOLS · ANDROID</text>
 <text x="24" y="70" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#1F2328">Zakat Calculator</text>
-<text x="24" y="102" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#59636E">A Shariah-compliant zakat calculator in</text><text x="24" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#59636E">Bengali, in a single HTML file.</text>
-<rect x="24" y="152" width="42" height="20" fill="#6E6A86"/><text x="45.0" y="166" text-anchor="middle" font-family="Verdana, Geneva, 'DejaVu Sans', sans-serif" font-size="11" fill="#FFFFFF">HTML</text><rect x="70" y="152" width="55" height="20" fill="#6E6A86"/><text x="97.5" y="166" text-anchor="middle" font-family="Verdana, Geneva, 'DejaVu Sans', sans-serif" font-size="11" fill="#FFFFFF">Bangla</text>
+<text x="24" y="102" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#59636E">A Bangla-first Android app for zakat, ushr</text><text x="24" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#59636E">and fitra, with Quran and hadith evidence.</text>
+<rect x="24" y="152" width="62" height="20" fill="#6E6A86"/><text x="55.0" y="166" text-anchor="middle" font-family="Verdana, Geneva, 'DejaVu Sans', sans-serif" font-size="11" fill="#FFFFFF">Android</text><rect x="90" y="152" width="55" height="20" fill="#6E6A86"/><text x="117.5" y="166" text-anchor="middle" font-family="Verdana, Geneva, 'DejaVu Sans', sans-serif" font-size="11" fill="#FFFFFF">Bangla</text>
 <rect x="272" y="148" width="124" height="28" fill="#6B4AFF"/>
 <text x="334" y="166" text-anchor="middle" font-family="Verdana, Geneva, 'DejaVu Sans', sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#FFFFFF">VIEW PROJECT</text>
 </svg>
