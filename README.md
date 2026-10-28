@@ -46,8 +46,8 @@ I'm Abdullah Al Fahim, a Broadcast Operations Engineer from Dhaka. I keep Channe
 
 | Role | Where | Focus |
 | :--- | :--- | :--- |
-| **Broadcast Engineer, Transmission** | <a href="https://www.channelionline.com"><img src="https://upload.wikimedia.org/wikipedia/en/8/88/Channel-i.svg" height="32" alt="Channel i" /></a> | Bangladesh's first digital satellite television network |
-| **Brand Identity Designer** | <a href="https://behance.net/hire-fahim"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/utopia-design-studio-dark.png" /><img src="utopia%20design%20studio.png" height="32" alt="Utopia Design Studio" /></picture></a> | Brand guidelines, brand assets and identity design since 2018 (<!--years-->8<!--/years--> years) |
+| **Broadcast Engineer, Transmission** | <a href="https://www.channelionline.com"><img src="https://upload.wikimedia.org/wikipedia/en/8/88/Channel-i.svg" width="74" alt="Channel i" /></a> | Bangladesh's first digital satellite television network |
+| **Brand Identity Designer** | <a href="https://behance.net/hire-fahim"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/utopia-design-studio-dark.png" /><img src="utopia%20design%20studio.png" width="128" alt="Utopia Design Studio" /></picture></a> | Brand guidelines, brand assets and identity design since 2018 (<!--years-->8<!--/years--> years) |
 | **BSc, Electronics &amp; Communication Engineering** | ISTT, National University of Bangladesh | Electronics, communication systems and signal processing |
 
 I also write technical documentation, run training sessions, and plan events across teams.
