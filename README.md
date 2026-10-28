@@ -114,6 +114,8 @@ I also write technical documentation, run training sessions, and plan events acr
 
 **Engineering the signal. Designing the brand. Solving problems.**
 
-[LinkedIn](https://linkedin.com/in/abdullah-al-fahim) · [Behance](https://behance.net/hire-fahim) · [Email](mailto:alfahim604@yahoo.com)
+<a href="https://linkedin.com/in/abdullah-al-fahim"><img src="https://img.shields.io/badge/-6B4AFF?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXpNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+" alt="LinkedIn" title="LinkedIn" /></a>
+<a href="mailto:alfahim604@yahoo.com"><img src="https://img.shields.io/badge/-6B4AFF?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" title="Email" /></a>
+<a href="https://behance.net/hire-fahim"><img src="https://img.shields.io/badge/-6B4AFF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" title="Behance" /></a>
 
 </div>
