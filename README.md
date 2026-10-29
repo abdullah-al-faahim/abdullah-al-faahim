@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/Open%20to-Design%20%26%20IT%20projects-6B4AFF?style=flat-square&labelColor=6E6A86" alt="Open to design and IT projects" />
 <br />
 <a href="https://github.com/abdullah-al-faahim?tab=followers"><img src="https://img.shields.io/github/followers/abdullah-al-faahim?label=Followers&style=flat-square&color=6B4AFF&labelColor=6E6A86" alt="GitHub followers" /></a>
-<img src="https://komarev.com/ghpvc/?username=abdullah-al-faahim&base=144805&label=Profile%20views&color=6B4AFF&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=abdullah-al-faahim&label=Profile%20views&color=6B4AFF&style=flat-square" alt="Profile views" />
 
 </div>
 
