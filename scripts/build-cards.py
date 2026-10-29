@@ -33,11 +33,11 @@ PROJECTS = [
         "tags": ["HTML", "Internal tool"],
     },
     {
-        "slug": "telecast-time-calculator",
+        "slug": "telecast-time-calculator-app",
         "eyebrow": "Broadcast operations · Android",
-        "title": "Telecast Time Calculator",
-        "lines": ["Add, compare and convert on-air durations.", "Works fully offline."],
-        "tags": ["Android", "HTML/JS"],
+        "title": "Telecast Time",
+        "lines": ["Duration tape, drop-frame timecode, live", "countdown and rundown planner for broadcast."],
+        "tags": ["Android", "Timecode"],
     },
     {
         "slug": "windows-11-customization",
