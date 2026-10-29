@@ -12,6 +12,13 @@ from xml.sax.saxutils import escape
 
 PROJECTS = [
     {
+        "slug": "photocard-studio",
+        "eyebrow": "News design · Windows",
+        "title": "PhotoCard Studio",
+        "lines": ["A Figma-style desktop editor for Bangla", "and English news photocards."],
+        "tags": ["Electron", "Bangla"],
+    },
+    {
         "slug": "finutopia",
         "eyebrow": "Personal finance · Android",
         "title": "FinUtopia",
@@ -52,13 +59,6 @@ PROJECTS = [
         "title": "PANTONE Color Books",
         "lines": ["PANTONE color book libraries for Adobe", "Illustrator 2024 and newer."],
         "tags": ["Illustrator", "Color"],
-    },
-    {
-        "slug": "bijoy-typing-practice",
-        "eyebrow": "Bangla tools · Web",
-        "title": "Bijoy Bangla Typing Practice",
-        "lines": ["Build speed and accuracy on the Bijoy", "Bangla keyboard layout."],
-        "tags": ["HTML", "Bangla"],
     },
     {
         "slug": "electronics-circuit",
