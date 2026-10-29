@@ -1,4 +1,4 @@
-<img src="GitHub%20Cover.webp" alt="Abdullah Al Fahim: Broadcast Engineer, IT Expert and Brand Designer" width="100%" />
+<img src="assets/cover/cover.webp" alt="Abdullah Al Fahim: Broadcast, IT and brand identity. Engineering the signal, designing the brand." width="100%" />
 
 <div align="center">
 
