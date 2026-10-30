@@ -48,7 +48,7 @@ I'm Abdullah Al Fahim, a Broadcast Operations Engineer from Dhaka. I keep Channe
 | :--- | :--- | :--- |
 | **Broadcast Engineer, Transmission** | <a href="https://www.channelionline.com"><img src="https://upload.wikimedia.org/wikipedia/en/8/88/Channel-i.svg" width="74" alt="Channel i" /></a> | Bangladesh's first digital satellite television network |
 | **Founder &amp; Creative Director** | <a href="https://behance.net/hire-fahim"><picture><source media="(prefers-color-scheme: dark)" srcset="Utopia%20SoftTech%20(white).png" /><img src="Utopia%20SoftTech.png" width="96" alt="Utopia SoftTech" /></picture></a> | Design and software studio: brand identity, apps and tools for Bangladesh, since 2018 (<!--years-->8<!--/years--> years) |
-| **BSc, Electronics &amp; Communication Engineering** | <a href="https://istt.edu.bd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/istt-dark.png" /><img src="ISTT.png" width="144" alt="Institute of Science, Trade &amp; Technology (ISTT)" /></picture></a><br /><sub>National University of Bangladesh</sub> | Electronics, communication systems and signal processing |
+| **BSc, Electronics &amp; Communication Engineering** | <a href="https://istt.edu.bd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/istt-dark.png" /><img src="ISTT.png" width="144" alt="Institute of Science, Trade &amp; Technology (ISTT)" /></picture></a> | Electronics, communication systems and signal processing |
 
 I also write technical documentation, run training sessions, and plan events across teams.
 
