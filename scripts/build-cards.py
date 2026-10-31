@@ -19,11 +19,11 @@ PROJECTS = [
         "tags": ["Electron", "Bangla"],
     },
     {
-        "slug": "finutopia",
+        "slug": "taka",
         "eyebrow": "Personal finance · Android",
-        "title": "FinUtopia",
+        "title": "Taka",
         "lines": ["A private, offline money manager built for", "Bangladesh, in Bangla and English."],
-        "tags": ["Android", "Offline"],
+        "tags": ["Flutter", "Offline"],
     },
     {
         "slug": "zakat-calculator-app",
