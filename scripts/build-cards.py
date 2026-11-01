@@ -21,7 +21,7 @@ PROJECTS = [
     {
         "slug": "taka",
         "eyebrow": "Personal finance · Android",
-        "title": "Taka",
+        "title": "Taka - Personal Finance Manager",
         "lines": ["A private, offline money manager built for", "Bangladesh, in Bangla and English."],
         "tags": ["Flutter", "Offline"],
     },
