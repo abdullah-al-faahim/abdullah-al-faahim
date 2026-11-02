@@ -22,7 +22,7 @@ from xml.sax.saxutils import escape
 from brand_fonts import font_face, text_width
 
 CALLOUTS = [
-    ("also", "I also write technical documentation, run training sessions, and plan events across teams."),
+    ("also", "I Also Write Technical Documentation, Run Training Sessions, and Plan Events Across Teams."),
 ]
 
 THEMES = {
