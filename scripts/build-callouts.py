@@ -37,33 +37,16 @@ LEADING, PAD_X, PAD_Y = 22, 20, 15
 
 
 def wrap(text, width):
-    """Fewest lines that fit width, with breaks chosen so the lines are as even as possible."""
-    words = [w.replace("~", " ") for w in text.split()]
-    count, line = 1, ""
-    for word in words:
+    """Fill each line as far as width allows, then break."""
+    lines, line = [], ""
+    for word in (w.replace("~", " ") for w in text.split()):
         trial = f"{line} {word}".strip()
         if line and text_width(*FONT, trial) > width:
-            count, line = count + 1, word
+            lines.append(line)
+            line = word
         else:
             line = trial
-
-    def fit(i, n):
-        # Best split of words[i:] into n lines: (widest line, lines)
-        if n == 1:
-            last = " ".join(words[i:])
-            return (text_width(*FONT, last), [last]) if text_width(*FONT, last) <= width else (float("inf"), [])
-        best = (float("inf"), [])
-        for j in range(i + 1, len(words) - n + 2):
-            head = " ".join(words[i:j])
-            w = text_width(*FONT, head)
-            if w > width:
-                break
-            rest_w, rest = fit(j, n - 1)
-            if max(w, rest_w) < best[0]:
-                best = (max(w, rest_w), [head] + rest)
-        return best
-
-    return fit(0, count)[1]
+    return lines + [line]
 
 
 def colors(theme):
