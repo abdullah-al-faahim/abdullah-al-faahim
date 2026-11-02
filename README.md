@@ -115,8 +115,6 @@ I also write technical documentation, run training sessions, and plan events acr
 
 **Engineering the signal. Designing the brand. Solving problems.**
 
-<a href="https://linkedin.com/in/abdullah-al-fahim"><img src="assets/icons/linkedin.svg" width="40" alt="LinkedIn" title="LinkedIn" /></a>&nbsp;
-<a href="mailto:alfahim604@yahoo.com"><img src="assets/icons/email.svg" width="40" alt="Email" title="Email" /></a>&nbsp;
-<a href="https://behance.net/hire-fahim"><img src="assets/icons/behance.svg" width="40" alt="Behance" title="Behance" /></a>
+<a href="https://linkedin.com/in/abdullah-al-fahim"><img src="assets/icons/hire-me.svg" width="140" alt="Hire Me on LinkedIn" title="Hire Me on LinkedIn" /></a>
 
 </div>
