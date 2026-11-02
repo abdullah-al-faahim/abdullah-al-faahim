@@ -50,10 +50,10 @@ I'm Abdullah Al Fahim, a Broadcast Operations Engineer from Dhaka. I keep Channe
 | **BSc, Electronics &amp; Communication Engineering** | <a href="https://istt.edu.bd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/nu-istt-dark.png" /><img src="NU%20X%20ISTT.png" width="80" alt="National University, Bangladesh and Institute of Science, Trade &amp; Technology (ISTT)" /></picture></a> | Electronics, communication systems and signal processing |
 
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/callouts/also-dark-narrow.svg" />
-  <source media="(max-width: 600px)" srcset="assets/callouts/also-light-narrow.svg" />
+  <source media="(max-width: 600px)" srcset="assets/callouts/also-narrow.svg" />
+  <source media="(max-width: 1279px)" srcset="assets/callouts/also-medium.svg" />
   <source media="(prefers-color-scheme: dark)" srcset="assets/callouts/also-dark-wide.svg" />
-  <img src="assets/callouts/also-light-wide.svg" width="560" alt="I also write technical documentation, run training sessions, and plan events across teams." />
+  <img src="assets/callouts/also-light-wide.svg" width="100%" alt="I also write technical documentation, run training sessions, and plan events across teams." />
 </picture>
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headings/toolbox-dark.svg" /><img src="assets/headings/toolbox-light.svg" width="131" alt="Toolbox" /></picture></h2>
