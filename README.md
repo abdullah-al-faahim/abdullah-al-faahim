@@ -8,12 +8,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=22&pause=1400&color=3A10AD&center=true&vCenter=true&width=640&lines=Broadcast+Operations+Engineer+%40+Channel+i;Brand+Identity+Designer+%C2%B7+8+years;IT+%C2%B7+Networks+%C2%B7+Systems;Engineering+the+signal.+Designing+the+brand." alt="Broadcast Operations Engineer at Channel i. Brand Identity Designer, 8 years. IT, networks and systems." />
 </picture>
 
-<a href="https://linkedin.com/in/abdullah-al-fahim"><img src="https://img.shields.io/badge/LinkedIn-6B4AFF?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXpNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+" alt="LinkedIn" /></a>
-<a href="https://behance.net/hire-fahim"><img src="https://img.shields.io/badge/Behance-6B4AFF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
-<a href="mailto:alfahim604@yahoo.com"><img src="https://img.shields.io/badge/Email-6B4AFF?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" /></a>
-<a href="https://www.facebook.com/abdullah.al.faahim"><img src="https://img.shields.io/badge/Facebook-6B4AFF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://instagram.com/abdullahalfahim_"><img src="https://img.shields.io/badge/Instagram-6B4AFF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://pinterest.com/utopiadesignsbd"><img src="https://img.shields.io/badge/Pinterest-6B4AFF?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
+<a href="https://linkedin.com/in/abdullah-al-fahim"><img src="assets/icons/linkedin.svg" width="40" alt="LinkedIn" title="LinkedIn" /></a>&nbsp;
+<a href="https://behance.net/hire-fahim"><img src="assets/icons/behance.svg" width="40" alt="Behance" title="Behance" /></a>&nbsp;
+<a href="mailto:alfahim604@yahoo.com"><img src="assets/icons/email.svg" width="40" alt="Email" title="Email" /></a>&nbsp;
+<a href="https://www.facebook.com/abdullah.al.faahim"><img src="assets/icons/facebook.svg" width="40" alt="Facebook" title="Facebook" /></a>&nbsp;
+<a href="https://instagram.com/abdullahalfahim_"><img src="assets/icons/instagram.svg" width="40" alt="Instagram" title="Instagram" /></a>&nbsp;
+<a href="https://pinterest.com/utopiadesignsbd"><img src="assets/icons/pinterest.svg" width="40" alt="Pinterest" title="Pinterest" /></a>
 
 <br />
 
