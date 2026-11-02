@@ -3,12 +3,16 @@
 Each project gets a light and a dark SVG in assets/cards/, which README.md
 shows through <picture> so the card follows the viewer's GitHub theme.
 Colors come from the profile design system (violet scale built on #3A10AD).
+Titles and descriptions are set in Sora, labels, tags and the button in
+JetBrains Mono, both embedded in each SVG (see brand_fonts.py).
 
 Run from the repository root:  python scripts/build-cards.py
 """
 
 from pathlib import Path
 from xml.sax.saxutils import escape
+
+from brand_fonts import font_face, text_width
 
 PROJECTS = [
     {
@@ -84,31 +88,40 @@ FILL_PRIMARY = "#6B4AFF"    # brand-500, white text 5.2:1
 FILL_SECONDARY = "#6E6A86"  # neutral-500, white text 5.2:1
 
 W, H, PAD = 420, 196, 24
-SANS = "-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif"
-BADGE = "Verdana, Geneva, 'DejaVu Sans', sans-serif"
+SANS = "Sora, sans-serif"
+MONO = "'JetBrains Mono', monospace"
+BUTTON = "VIEW PROJECT"
 
 
 def tag_width(label):
-    return round(len(label) * 6.9 + 14)
+    return round(text_width("JetBrains Mono", 600, 11, label) + 16)
 
 
 def card(project, theme):
     t = THEMES[theme]
+    eyebrow = project["eyebrow"].upper()
     tags, x = [], PAD
     for label in project["tags"]:
         w = tag_width(label)
         tags.append(
             f'<rect x="{x}" y="152" width="{w}" height="20" fill="{FILL_SECONDARY}"/>'
-            f'<text x="{x + w / 2}" y="166" text-anchor="middle" font-family="{BADGE}" font-size="11" fill="#FFFFFF">{escape(label)}</text>'
+            f'<text x="{x + w / 2}" y="165.5" text-anchor="middle" font-family="{MONO}" font-size="11" font-weight="600" fill="#FFFFFF">{escape(label)}</text>'
         )
         x += w + 4
     lines = "".join(
         f'<text x="{PAD}" y="{102 + i * 20}" font-family="{SANS}" font-size="14" fill="{t["muted"]}">{escape(line)}</text>'
         for i, line in enumerate(project["lines"])
     )
+    style = "".join((
+        font_face("Sora", 600, project["title"]),
+        font_face("Sora", 400, "".join(project["lines"])),
+        font_face("JetBrains Mono", 600, eyebrow + "".join(project["tags"])),
+        font_face("JetBrains Mono", 700, BUTTON),
+    ))
     title = escape(project["title"])
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="{title}">
 <title>{title}</title>
+<style>{style}</style>
 <defs><clipPath id="c"><rect width="{W}" height="{H}" rx="12"/></clipPath></defs>
 <g clip-path="url(#c)">
 <rect width="{W}" height="{H}" fill="{t["surface"]}"/>
@@ -116,12 +129,12 @@ def card(project, theme):
 <circle cx="{W}" cy="0" r="16" fill="{t["arc"]}"/>
 </g>
 <rect x="0.5" y="0.5" width="{W - 1}" height="{H - 1}" rx="11.5" fill="none" stroke="{t["border"]}"/>
-<text x="{PAD}" y="40" font-family="{SANS}" font-size="11" font-weight="600" letter-spacing="1.2" fill="{t["accent"]}">{escape(project["eyebrow"].upper())}</text>
-<text x="{PAD}" y="70" font-family="{SANS}" font-size="20" font-weight="600" fill="{t["ink"]}">{title}</text>
+<text x="{PAD}" y="40" font-family="{MONO}" font-size="11" font-weight="600" letter-spacing="0.6" fill="{t["accent"]}">{escape(eyebrow)}</text>
+<text x="{PAD}" y="70" font-family="{SANS}" font-size="20" font-weight="600" letter-spacing="-0.2" fill="{t["ink"]}">{title}</text>
 {lines}
 {"".join(tags)}
 <rect x="{W - PAD - 124}" y="148" width="124" height="28" fill="{FILL_PRIMARY}"/>
-<text x="{W - PAD - 62}" y="166" text-anchor="middle" font-family="{BADGE}" font-size="10" font-weight="700" letter-spacing="1" fill="#FFFFFF">VIEW PROJECT</text>
+<text x="{W - PAD - 62}" y="166" text-anchor="middle" font-family="{MONO}" font-size="11" font-weight="700" letter-spacing="0.8" fill="#FFFFFF">{BUTTON}</text>
 </svg>
 '''
 

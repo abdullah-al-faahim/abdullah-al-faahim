@@ -10,7 +10,6 @@
 
 <img src="https://img.shields.io/badge/Based%20in-Dhaka%2C%20Bangladesh-6B4AFF?style=flat-square&labelColor=6E6A86" alt="Based in Dhaka, Bangladesh" />
 <img src="https://img.shields.io/badge/Open%20to-Design%20%26%20IT%20projects-D4FF24?style=flat-square&labelColor=6E6A86" alt="Open to design and IT projects" />
-<br />
 <a href="https://github.com/abdullah-al-faahim?tab=followers"><img src="https://img.shields.io/github/followers/abdullah-al-faahim?label=Followers&style=flat-square&color=6B4AFF&labelColor=6E6A86" alt="GitHub followers" /></a>
 <img src="https://komarev.com/ghpvc/?username=abdullah-al-faahim&label=Profile%20views&color=6B4AFF&style=flat-square" alt="Profile views" />
 
@@ -25,7 +24,7 @@
 
 </div>
 
-## About
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headings/about-dark.svg" /><img src="assets/headings/about-light.svg" width="107" alt="About" /></picture></h2>
 
 I'm Abdullah Al Fahim, a Broadcast Operations Engineer from Dhaka. I keep Channel i on air, look after the systems behind it, and design brand identities. I also build small tools that make broadcast work and everyday life in Bangladesh a little easier.
 
@@ -42,7 +41,7 @@ I'm Abdullah Al Fahim, a Broadcast Operations Engineer from Dhaka. I keep Channe
   </tr>
 </table>
 
-## Experience
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headings/experience-dark.svg" /><img src="assets/headings/experience-light.svg" width="167" alt="Experience" /></picture></h2>
 
 | Role | Where | Focus |
 | :--- | :--- | :--- |
@@ -52,7 +51,7 @@ I'm Abdullah Al Fahim, a Broadcast Operations Engineer from Dhaka. I keep Channe
 
 I also write technical documentation, run training sessions, and plan events across teams.
 
-## Toolbox
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headings/toolbox-dark.svg" /><img src="assets/headings/toolbox-light.svg" width="131" alt="Toolbox" /></picture></h2>
 
 <table>
   <tr>
@@ -86,7 +85,7 @@ I also write technical documentation, run training sessions, and plan events acr
   </tr>
 </table>
 
-## Featured projects
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headings/featured-projects-dark.svg" /><img src="assets/headings/featured-projects-light.svg" width="249" alt="Featured projects" /></picture></h2>
 
 <p align="center">
   <a href="https://github.com/abdullah-al-faahim/taka-releases"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/taka-dark.svg" /><img src="assets/cards/taka-light.svg" width="49%" alt="Taka - Personal Finance Manager: a private, offline money manager built for Bangladesh. View project." /></picture></a>
