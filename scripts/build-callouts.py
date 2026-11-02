@@ -13,6 +13,8 @@ each callout is drawn at three widths, the README width at each screen size:
 The border is Acid Lime on dark and brand-500 violet on light, where lime
 would vanish.
 
+A "~" between two words keeps them on one line; it prints as a space.
+
 Run from the repository root:  python scripts/build-callouts.py
 """
 
@@ -22,7 +24,7 @@ from xml.sax.saxutils import escape
 from brand_fonts import font_face, text_width
 
 CALLOUTS = [
-    ("also", "I Also Write Technical Documentation, Run Training Sessions, and Plan Events Across Teams."),
+    ("also", "I Also Write Technical Documentation, Run Training Sessions, and Plan Events Across Students, Young~Professionals and Tech~Enthusiasts."),
 ]
 
 THEMES = {
@@ -35,15 +37,33 @@ LEADING, PAD_X, PAD_Y = 22, 20, 15
 
 
 def wrap(text, width):
-    lines, line = [], ""
-    for word in text.split():
+    """Fewest lines that fit width, with breaks chosen so the lines are as even as possible."""
+    words = [w.replace("~", " ") for w in text.split()]
+    count, line = 1, ""
+    for word in words:
         trial = f"{line} {word}".strip()
         if line and text_width(*FONT, trial) > width:
-            lines.append(line)
-            line = word
+            count, line = count + 1, word
         else:
             line = trial
-    return lines + [line]
+
+    def fit(i, n):
+        # Best split of words[i:] into n lines: (widest line, lines)
+        if n == 1:
+            last = " ".join(words[i:])
+            return (text_width(*FONT, last), [last]) if text_width(*FONT, last) <= width else (float("inf"), [])
+        best = (float("inf"), [])
+        for j in range(i + 1, len(words) - n + 2):
+            head = " ".join(words[i:j])
+            w = text_width(*FONT, head)
+            if w > width:
+                break
+            rest_w, rest = fit(j, n - 1)
+            if max(w, rest_w) < best[0]:
+                best = (max(w, rest_w), [head] + rest)
+        return best
+
+    return fit(0, count)[1]
 
 
 def colors(theme):
@@ -60,6 +80,7 @@ def colors(theme):
 def callout(text, theme, size):
     w = WIDTHS[size]
     lines = wrap(text, w - 2 * PAD_X)
+    text = text.replace("~", " ")
     h = 2 * PAD_Y + len(lines) * LEADING - 8
     css, box, ink = colors(theme)
     rows = "".join(

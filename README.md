@@ -53,7 +53,7 @@ I'm Abdullah Al Fahim, a Broadcast Operations Engineer from Dhaka. I keep Channe
   <source media="(max-width: 600px)" srcset="assets/callouts/also-narrow.svg" />
   <source media="(max-width: 1279px)" srcset="assets/callouts/also-medium.svg" />
   <source media="(prefers-color-scheme: dark)" srcset="assets/callouts/also-dark-wide.svg" />
-  <img src="assets/callouts/also-light-wide.svg" width="100%" alt="I Also Write Technical Documentation, Run Training Sessions, and Plan Events Across Teams." />
+  <img src="assets/callouts/also-light-wide.svg" width="100%" alt="I Also Write Technical Documentation, Run Training Sessions, and Plan Events Across Students, Young Professionals and Tech Enthusiasts." />
 </picture>
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headings/toolbox-dark.svg" /><img src="assets/headings/toolbox-light.svg" width="131" alt="Toolbox" /></picture></h2>
