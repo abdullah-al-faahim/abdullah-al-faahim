@@ -2,7 +2,8 @@
 
 Each project gets a light and a dark SVG in assets/cards/, which README.md
 shows through <picture> so the card follows the viewer's GitHub theme.
-Colors come from the profile design system (violet scale built on #3A10AD).
+Colors come from the profile design system (violet scale built on #3A10AD),
+with Acid Lime only on the tally dot and the core of the signal arcs.
 
 Run from the repository root:  python scripts/build-cards.py
 """
@@ -73,15 +74,16 @@ PROJECTS = [
 THEMES = {
     "light": {
         "surface": "#F6F8FA", "border": "#D0D7DE", "ink": "#1F2328", "muted": "#59636E",
-        "accent": "#3A10AD", "arc": "#E9E7FF",
+        "accent": "#3A10AD", "arc": "#E9E7FF", "tally_ring": ' stroke="#3A10AD" stroke-width="1.5"',
     },
     "dark": {
         "surface": "#161B22", "border": "#30363D", "ink": "#E6EDF3", "muted": "#9198A1",
-        "accent": "#B4ADFF", "arc": "#1E066F",
+        "accent": "#B4ADFF", "arc": "#1E066F", "tally_ring": "",
     },
 }
 FILL_PRIMARY = "#6B4AFF"    # brand-500, white text 5.2:1
 FILL_SECONDARY = "#6E6A86"  # neutral-500, white text 5.2:1
+HIGHLIGHT = "#D4FF24"       # highlight-500, Acid Lime: marks only, never text on light
 
 W, H, PAD = 420, 196, 24
 SANS = "-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif"
@@ -113,10 +115,11 @@ def card(project, theme):
 <g clip-path="url(#c)">
 <rect width="{W}" height="{H}" fill="{t["surface"]}"/>
 <g fill="none" stroke="{t["arc"]}" stroke-width="8"><circle cx="{W}" cy="0" r="48"/><circle cx="{W}" cy="0" r="96"/><circle cx="{W}" cy="0" r="144"/></g>
-<circle cx="{W}" cy="0" r="16" fill="{t["arc"]}"/>
+<circle cx="{W}" cy="0" r="16" fill="{HIGHLIGHT}"/>
 </g>
 <rect x="0.5" y="0.5" width="{W - 1}" height="{H - 1}" rx="11.5" fill="none" stroke="{t["border"]}"/>
-<text x="{PAD}" y="40" font-family="{SANS}" font-size="11" font-weight="600" letter-spacing="1.2" fill="{t["accent"]}">{escape(project["eyebrow"].upper())}</text>
+<circle cx="{PAD + 4}" cy="36" r="4" fill="{HIGHLIGHT}"{t["tally_ring"]}/>
+<text x="{PAD + 16}" y="40" font-family="{SANS}" font-size="11" font-weight="600" letter-spacing="1.2" fill="{t["accent"]}">{escape(project["eyebrow"].upper())}</text>
 <text x="{PAD}" y="70" font-family="{SANS}" font-size="20" font-weight="600" fill="{t["ink"]}">{title}</text>
 {lines}
 {"".join(tags)}
