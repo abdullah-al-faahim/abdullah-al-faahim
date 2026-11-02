@@ -25,10 +25,10 @@ jobs:
           # GitHub username to generate the animation for
           github_user_name: ${{ github.repository_owner }}
           # Define the output files and their configurations.
-          # Contribution dots in Acid Lime (olive to lime on light, lime on dark); the snake stays violet.
+          # Light and dark use the profile's violet scale (brand-200 to brand-900).
           outputs: |
-            dist/github-snake.svg?palette=github-light&color_snake=#3A10AD&color_dots=#EBEDF0,#E6FF8A,#D4FF24,#9CC20F,#5F7A07
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#8F7EFF&color_dots=#161B22,#3A4A0E,#6F8F12,#A3D11A,#D4FF24
+            dist/github-snake.svg?palette=github-light&color_snake=#3A10AD&color_dots=#EBEDF0,#D3D1FF,#B4ADFF,#8F7EFF,#5A25FF
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#D5D2FF&color_dots=#161B22,#1E066F,#4110C7,#6B4AFF,#8F7EFF
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

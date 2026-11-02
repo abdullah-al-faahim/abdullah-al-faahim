@@ -8,20 +8,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=22&pause=1400&color=3A10AD&center=true&vCenter=true&width=640&lines=Broadcast+Operations+Engineer+%40+Channel+i;Brand+Identity+Designer+%C2%B7+8+years;IT+%C2%B7+Networks+%C2%B7+Systems;Engineering+the+signal.+Designing+the+brand." alt="Broadcast Operations Engineer at Channel i. Brand Identity Designer, 8 years. IT, networks and systems." />
 </picture>
 
+<img src="https://img.shields.io/badge/Based%20in-Dhaka%2C%20Bangladesh-6B4AFF?style=flat-square&labelColor=6E6A86" alt="Based in Dhaka, Bangladesh" />
+<img src="https://img.shields.io/badge/Open%20to-Design%20%26%20IT%20projects-D4FF24?style=flat-square&labelColor=6E6A86" alt="Open to design and IT projects" />
+<br />
+<a href="https://github.com/abdullah-al-faahim?tab=followers"><img src="https://img.shields.io/github/followers/abdullah-al-faahim?label=Followers&style=flat-square&color=6B4AFF&labelColor=6E6A86" alt="GitHub followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=abdullah-al-faahim&label=Profile%20views&color=6B4AFF&style=flat-square" alt="Profile views" />
+
+<br />
+
 <a href="https://linkedin.com/in/abdullah-al-fahim"><img src="assets/icons/linkedin.svg" width="40" alt="LinkedIn" title="LinkedIn" /></a>&nbsp;
 <a href="https://behance.net/hire-fahim"><img src="assets/icons/behance.svg" width="40" alt="Behance" title="Behance" /></a>&nbsp;
 <a href="mailto:alfahim604@yahoo.com"><img src="assets/icons/email.svg" width="40" alt="Email" title="Email" /></a>&nbsp;
 <a href="https://www.facebook.com/abdullah.al.faahim"><img src="assets/icons/facebook.svg" width="40" alt="Facebook" title="Facebook" /></a>&nbsp;
 <a href="https://instagram.com/abdullahalfahim_"><img src="assets/icons/instagram.svg" width="40" alt="Instagram" title="Instagram" /></a>&nbsp;
 <a href="https://pinterest.com/utopiadesignsbd"><img src="assets/icons/pinterest.svg" width="40" alt="Pinterest" title="Pinterest" /></a>
-
-<br />
-
-<img src="https://img.shields.io/badge/Based%20in-Dhaka%2C%20Bangladesh-6B4AFF?style=flat-square&labelColor=6E6A86" alt="Based in Dhaka, Bangladesh" />
-<img src="https://img.shields.io/badge/Open%20to-Design%20%26%20IT%20projects-D4FF24?style=flat-square&labelColor=6E6A86" alt="Open to design and IT projects" />
-<br />
-<a href="https://github.com/abdullah-al-faahim?tab=followers"><img src="https://img.shields.io/github/followers/abdullah-al-faahim?label=Followers&style=flat-square&color=6B4AFF&labelColor=6E6A86" alt="GitHub followers" /></a>
-<img src="https://komarev.com/ghpvc/?username=abdullah-al-faahim&label=Profile%20views&color=6B4AFF&style=flat-square" alt="Profile views" />
 
 </div>
 
