@@ -30,6 +30,20 @@ PROJECTS = [
         "tags": ["Flutter", "Offline"],
     },
     {
+        "slug": "roktobondhu",
+        "eyebrow": "Health · Android",
+        "title": "Roktobondhu",
+        "lines": ["A privacy-first blood donor app for Bangladesh:", "requests and donors on one live map."],
+        "tags": ["Flutter", "Supabase"],
+    },
+    {
+        "slug": "khanfarhana-info",
+        "eyebrow": "Web case study · WordPress",
+        "title": "khanfarhana.info",
+        "lines": ["A custom WordPress theme and content platform", "for a youth leader and LinkedIn creator."],
+        "tags": ["WordPress", "PHP"],
+    },
+    {
         "slug": "zakat-calculator-app",
         "eyebrow": "Bangla tools · Android",
         "title": "Zakat Calculator",
