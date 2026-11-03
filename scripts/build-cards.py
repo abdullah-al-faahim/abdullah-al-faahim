@@ -51,11 +51,11 @@ PROJECTS = [
         "tags": ["Android", "Bangla"],
     },
     {
-        "slug": "channel-i-mcr-leave",
-        "eyebrow": "Broadcast operations · Web",
-        "title": "Channel i MCR Leave Application",
-        "lines": ["Leave applications for the Master Control", "Room team at Channel i."],
-        "tags": ["HTML", "Internal tool"],
+        "slug": "github-achievements",
+        "eyebrow": "Developer guide · GitHub",
+        "title": "GitHub Achievements",
+        "lines": ["Every GitHub achievement, tier and profile", "highlight, and how to unlock each one."],
+        "tags": ["Guide", "Python"],
     },
     {
         "slug": "telecast-time-calculator-app",
