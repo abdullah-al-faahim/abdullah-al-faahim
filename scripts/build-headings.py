@@ -16,6 +16,7 @@ HEADINGS = [
     ("experience", "Experience"),
     ("toolbox", "Toolbox"),
     ("featured-projects", "Featured projects"),
+    ("achievements", "Achievements"),
 ]
 
 # Design system tokens per theme: ink for the title, accent for the index

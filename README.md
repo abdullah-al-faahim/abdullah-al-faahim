@@ -109,6 +109,15 @@ I'm Abdullah Al Fahim, a Broadcast Operations Engineer from Dhaka. I keep Channe
   <a href="https://github.com/abdullah-al-faahim?tab=repositories"><img src="https://img.shields.io/badge/All%20repositories-6B4AFF?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" /></a>
 </p>
 
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headings/achievements-dark.svg" /><img src="assets/headings/achievements-light.svg" width="207" alt="Achievements" /></picture></h2>
+
+<p align="center">
+  <a href="https://github.com/abdullah-al-faahim/github-achievements/blob/main/achievements/starstruck.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/achievements/starstruck-dark.svg" /><img src="assets/achievements/starstruck-light.svg" width="136" alt="Starstruck achievement, x2, Bronze" title="Starstruck" /></picture></a>
+  <a href="https://github.com/abdullah-al-faahim/github-achievements/blob/main/achievements/pull-shark.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/achievements/pull-shark-dark.svg" /><img src="assets/achievements/pull-shark-light.svg" width="136" alt="Pull Shark achievement, x2, Bronze" title="Pull Shark" /></picture></a>
+  <a href="https://github.com/abdullah-al-faahim/github-achievements/blob/main/achievements/pair-extraordinaire.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/achievements/pair-extraordinaire-dark.svg" /><img src="assets/achievements/pair-extraordinaire-light.svg" width="136" alt="Pair Extraordinaire achievement, earned" title="Pair Extraordinaire" /></picture></a>
+  <a href="https://github.com/abdullah-al-faahim/github-achievements/blob/main/achievements/yolo.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/achievements/yolo-dark.svg" /><img src="assets/achievements/yolo-light.svg" width="136" alt="YOLO achievement, earned" title="YOLO" /></picture></a>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullah-al-faahim/abdullah-al-faahim/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdullah-al-faahim/abdullah-al-faahim/output/github-snake.svg" />
