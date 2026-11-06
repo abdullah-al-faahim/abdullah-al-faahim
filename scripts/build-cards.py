@@ -51,11 +51,11 @@ PROJECTS = [
         "tags": ["Android", "Bangla"],
     },
     {
-        "slug": "github-achievements",
-        "eyebrow": "Developer guide · GitHub",
-        "title": "GitHub Achievements",
-        "lines": ["Every GitHub achievement, tier and profile", "highlight, and how to unlock each one."],
-        "tags": ["Guide", "Python"],
+        "slug": "taskbell",
+        "eyebrow": "Productivity · Android",
+        "title": "TaskBell",
+        "lines": ["A private, offline task manager that rings", "before and at the start of every task."],
+        "tags": ["Kotlin", "Offline"],
     },
     {
         "slug": "telecast-time-calculator-app",
