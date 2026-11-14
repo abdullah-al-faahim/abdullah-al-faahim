@@ -16,6 +16,13 @@ from brand_fonts import font_face, text_width
 
 PROJECTS = [
     {
+        "slug": "alljobs-reimagined",
+        "eyebrow": "Jobs · Android",
+        "title": "Alljobs by Teletalk, Reimagined",
+        "lines": ["Government job circulars, admit cards and", "results from Bangladesh, with alerts."],
+        "tags": ["Android", "Bangla"],
+    },
+    {
         "slug": "photocard-studio",
         "eyebrow": "News design · Windows",
         "title": "PhotoCard Studio",
