@@ -92,6 +92,13 @@ PROJECTS = [
         "lines": ["23 NI Multisim projects: op-amps, flip-flops,", "logic gates, diodes and AC analysis."],
         "tags": ["Multisim", "ECE"],
     },
+    {
+        "slug": "battery-saver",
+        "eyebrow": "Utility · Android",
+        "title": "Battery Saver",
+        "lines": ["Find the apps draining your battery and", "stop them in one tap. 55 KB, no root."],
+        "tags": ["Kotlin", "No internet"],
+    },
 ]
 
 # Design system tokens per theme
