@@ -1,0 +1,39 @@
+name: Sync GitHub achievements
+
+# Reads the public achievements tab every day. When a badge is earned or
+# upgrades (x2 Bronze, x3 Silver, x4 Gold), it rebuilds the tiles and the
+# Achievements block in README.md and commits them.
+on:
+  schedule:
+    - cron: "30 0 * * *"   # 06:30 Dhaka time
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install Pillow
+        run: python -m pip install --quiet pillow
+      - name: Fetch achievements and rebuild tiles
+        working-directory: scripts
+        run: python build-achievements.py
+      - name: Commit if anything changed
+        run: |
+          if [ -z "$(git status --porcelain README.md assets/achievements scripts/achievements.json scripts/badges)" ]; then
+            echo "No change."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/achievements scripts/achievements.json scripts/badges
+          git commit -m "Update GitHub achievements"
+          git push

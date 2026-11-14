@@ -1,0 +1,30 @@
+[
+ {
+  "slug": "pair-extraordinaire",
+  "badge": "pair-extraordinaire-bronze",
+  "title": "Pair Extraordinaire",
+  "count": 2,
+  "tier": "×2 Bronze"
+ },
+ {
+  "slug": "pull-shark",
+  "badge": "pull-shark-bronze",
+  "title": "Pull Shark",
+  "count": 2,
+  "tier": "×2 Bronze"
+ },
+ {
+  "slug": "starstruck",
+  "badge": "starstruck-bronze",
+  "title": "Starstruck",
+  "count": 2,
+  "tier": "×2 Bronze"
+ },
+ {
+  "slug": "yolo",
+  "badge": "yolo-default",
+  "title": "YOLO",
+  "count": 1,
+  "tier": null
+ }
+]
