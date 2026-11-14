@@ -23,6 +23,10 @@
 <a href="https://instagram.com/abdullahalfahim_"><img src="assets/icons/instagram.svg" width="40" alt="Instagram" title="Instagram" /></a>&nbsp;
 <a href="https://pinterest.com/utopiadesignsbd"><img src="assets/icons/pinterest.svg" width="40" alt="Pinterest" title="Pinterest" /></a>
 
+<br />
+
+<a href="https://abdullah-al-faahim.github.io/blog/"><img src="https://img.shields.io/badge/Read%20my%20Blogs-D4FF24?style=for-the-badge&logo=rss&logoColor=1F2328" alt="Read my Blogs" /></a>
+
 </div>
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headings/about-dark.svg" /><img src="assets/headings/about-light.svg" width="107" alt="About" /></picture></h2>
