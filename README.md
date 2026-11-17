@@ -20,8 +20,7 @@
 <a href="https://behance.net/hire-fahim"><img src="assets/icons/behance.svg" width="40" alt="Behance" title="Behance" /></a>&nbsp;
 <a href="mailto:alfahim604@yahoo.com"><img src="assets/icons/email.svg" width="40" alt="Email" title="Email" /></a>&nbsp;
 <a href="https://www.facebook.com/abdullah.al.faahim"><img src="assets/icons/facebook.svg" width="40" alt="Facebook" title="Facebook" /></a>&nbsp;
-<a href="https://instagram.com/abdullahalfahim_"><img src="assets/icons/instagram.svg" width="40" alt="Instagram" title="Instagram" /></a>&nbsp;
-<a href="https://pinterest.com/utopiadesignsbd"><img src="assets/icons/pinterest.svg" width="40" alt="Pinterest" title="Pinterest" /></a>
+<a href="https://instagram.com/abdullahalfahim_"><img src="assets/icons/instagram.svg" width="40" alt="Instagram" title="Instagram" /></a>
 
 <br />
 
