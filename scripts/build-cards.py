@@ -99,6 +99,20 @@ PROJECTS = [
         "lines": ["Find the apps draining your battery and", "stop them in one tap. 55 KB, no root."],
         "tags": ["Kotlin", "No internet"],
     },
+    {
+        "slug": "quickview",
+        "eyebrow": "Productivity · Windows",
+        "title": "QuickView",
+        "lines": ["Press Space to preview any file: PDF, Office,", "PSD, AI, RAW and 100+ formats. 62 KB."],
+        "tags": ["Windows", "Free"],
+    },
+    {
+        "slug": "photo-viewer",
+        "eyebrow": "Photos · Windows",
+        "title": "Photo Viewer",
+        "lines": ["A fast photo viewer and editor in one 0.5 MB", "portable exe, with full EXIF and GPS details."],
+        "tags": ["Windows", "Portable"],
+    },
 ]
 
 # Design system tokens per theme
