@@ -113,6 +113,13 @@ PROJECTS = [
         "lines": ["A fast photo viewer and editor in one 0.5 MB", "portable exe, with full EXIF and GPS details."],
         "tags": ["Windows", "Portable"],
     },
+    {
+        "slug": "filexp",
+        "eyebrow": "File manager · Windows",
+        "title": "FileXP",
+        "lines": ["A lightning-fast file explorer with column view,", "instant search and 7-Zip built in."],
+        "tags": ["Windows", "Free"],
+    },
 ]
 
 # Design system tokens per theme
